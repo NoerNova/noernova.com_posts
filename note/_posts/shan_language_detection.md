@@ -1,5 +1,5 @@
 ---
-tag: ["code"]
+tags: ["code"]
 date: "May 28, 2024"
 title: "Shan language text predictor"
 link: "note/shan_language_detection"

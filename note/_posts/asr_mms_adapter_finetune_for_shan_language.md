@@ -1,5 +1,5 @@
 ---
-tag: ["code"]
+tags: ["code"]
 date: "June 16, 2024"
 title: "Finetune Asr MMS adapter for Shan language"
 link: "note/asr_mms_adapter_finetune_for_shan_language"

@@ -1,5 +1,5 @@
 ---
-tag: ["security"]
+tags: ["security"]
 date: "May 28, 2024"
 title: "Bypass windows password with Kali linux"
 link: "note/bypass_windows_password_with_kali_linux"

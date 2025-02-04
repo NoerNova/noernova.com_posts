@@ -1,5 +1,5 @@
 ---
-tag: ["security"]
+tags: ["security"]
 date: "May 30, 2024"
 title: "CSRF and XSS"
 link: "note/csrf_xss"

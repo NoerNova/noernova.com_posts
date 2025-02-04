@@ -1,5 +1,5 @@
 ---
-tag: ["code"]
+tags: ["code"]
 date: "June 6, 2024"
 title: "Finetune Vits TTS MMS for Shan language"
 link: "note/vits_tts_mms_shan_finetune"
