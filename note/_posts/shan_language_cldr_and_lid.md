@@ -1,5 +1,5 @@
 ---
-tag: "shan-language"
+tags: ["shan-language"]
 date: "May 30, 2024"
 title: "Shan language in CLDR and LID"
 link: "note/shan_language_cldr_and_lid"

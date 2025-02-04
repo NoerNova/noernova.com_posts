@@ -1,5 +1,5 @@
 ---
-tag: "code"
+tags: ["code"]
 date: "May 28, 2024"
 title: "Some useful Bash script"
 link: "note/bash_script_command_line"
