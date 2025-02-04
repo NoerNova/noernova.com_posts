@@ -3,8 +3,8 @@ const path = require("path");
 const matter = require("gray-matter");
 
 const directories = [
-  { dir: "blog/_posts", output: "blog/index.json" },
-  { dir: "note/_posts", output: "note/index.json" }
+  { dir: "../blog/_posts", output: "../blog/index.json" },
+  { dir: "../note/_posts", output: "../note/index.json" }
 ];
 
 function generateIndex(dir, output) {
