@@ -1,5 +1,5 @@
 ---
-tag: "security"
+tag: ["security"]
 date: "May 28, 2024"
 title: "Some useful security tools"
 link: "note/security_tools"

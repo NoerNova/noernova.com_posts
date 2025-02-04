@@ -1,5 +1,5 @@
 ---
-tag: "security"
+tag: ["security"]
 date: "May 30, 2024"
 title: "CSRF and XSS"
 link: "note/csrf_xss"
@@ -16,7 +16,7 @@ Cross Site Request Forgery
   - Request contains XSS input directly reflected back to victim's browser
 - Stored XSS
   - XSS input sent to target website storing it as content
-  - Later the content is accessed by victim's browser 
+  - Later the content is accessed by victim's browser
 
 #### SQL Elements
 

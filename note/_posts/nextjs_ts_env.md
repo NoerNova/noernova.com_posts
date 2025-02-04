@@ -1,5 +1,5 @@
 ---
-tag: "code"
+tag: ["code"]
 date: "May 30, 2024"
 title: "NextJS Typescript .env"
 link: "note/nextjs_ts_env"

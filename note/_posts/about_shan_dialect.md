@@ -1,5 +1,5 @@
 ---
-tag: "shan-language"
+tag: ["shan-language"]
 date: "May 28, 2024"
 title: "About Shan Dialect"
 link: "note/about_shan_dialect"
