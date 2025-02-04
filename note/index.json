@@ -4,7 +4,9 @@
     "subtitle": "",
     "description": "how many Shan language dialect are there?",
     "date": "May 28, 2024",
-    "tags": [],
+    "tags": [
+      "shan-language"
+    ],
     "image": "",
     "link": "note/about_shan_dialect"
   },
@@ -13,7 +15,9 @@
     "subtitle": "",
     "description": "Note for fintunning ASRMMS for Shan language",
     "date": "June 16, 2024",
-    "tags": [],
+    "tags": [
+      "code"
+    ],
     "image": "",
     "link": "note/asr_mms_adapter_finetune_for_shan_language"
   },
@@ -22,7 +26,9 @@
     "subtitle": "",
     "description": "some useful bash script",
     "date": "May 28, 2024",
-    "tags": [],
+    "tags": [
+      "code"
+    ],
     "image": "",
     "link": "note/bash_script_command_line"
   },
@@ -31,7 +37,9 @@
     "subtitle": "",
     "description": "Bypass windows password with Kali linux",
     "date": "May 28, 2024",
-    "tags": [],
+    "tags": [
+      "security"
+    ],
     "image": "",
     "link": "note/bypass_windows_password_with_kali_linux"
   },
@@ -40,7 +48,9 @@
     "subtitle": "",
     "description": "",
     "date": "May 30, 2024",
-    "tags": [],
+    "tags": [
+      "security"
+    ],
     "image": "",
     "link": "note/csrf_xss"
   },
@@ -49,7 +59,9 @@
     "subtitle": "",
     "description": "How to config .env for NextJS typescript",
     "date": "May 30, 2024",
-    "tags": [],
+    "tags": [
+      "code"
+    ],
     "image": "",
     "link": "note/nextjs_ts_env"
   },
@@ -58,7 +70,9 @@
     "subtitle": "",
     "description": "What is the different between Pentest and VA (Vernarability access)",
     "date": "May 28, 2024",
-    "tags": [],
+    "tags": [
+      "security"
+    ],
     "image": "",
     "link": "note/pentest_vs_va"
   },
@@ -67,7 +81,9 @@
     "subtitle": "",
     "description": "some useful security tools",
     "date": "May 28, 2024",
-    "tags": [],
+    "tags": [
+      "security"
+    ],
     "image": "",
     "link": "note/security_tools"
   },
@@ -76,7 +92,9 @@
     "subtitle": "",
     "description": "Shan language in term of Unicode encoding, CLDR and Language Identifier",
     "date": "May 30, 2024",
-    "tags": [],
+    "tags": [
+      "shan-language"
+    ],
     "image": "",
     "link": "note/shan_language_cldr_and_lid"
   },
@@ -85,7 +103,9 @@
     "subtitle": "",
     "description": "Predict if text is in Shan or not",
     "date": "May 28, 2024",
-    "tags": [],
+    "tags": [
+      "code"
+    ],
     "image": "",
     "link": "note/shan_language_detection"
   },
@@ -94,7 +114,9 @@
     "subtitle": "",
     "description": "Note for fintunning VITS base TTSMMS for Shan language",
     "date": "June 6, 2024",
-    "tags": [],
+    "tags": [
+      "code"
+    ],
     "image": "",
     "link": "note/vits_tts_mms_shan_finetune"
   }
