@@ -1,25 +1,15 @@
 [
   {
     "title": "About Shan Dialect",
-    "subtitle": "",
+    "subtitle": "ထွႆႈၵႂၢမ်းၵႂၢမ်းလၢတ်ႈ ”တႆး” မီးလၢႆၸိူဝ်း",
     "description": "how many Shan language dialect are there?",
     "date": "May 28, 2024",
     "tags": [
-      "shan-language"
+      "shan-language",
+      "note"
     ],
-    "image": "",
-    "link": "note/about_shan_dialect"
-  },
-  {
-    "title": "Finetune Asr MMS adapter for Shan language",
-    "subtitle": "",
-    "description": "Note for fintunning ASRMMS for Shan language",
-    "date": "June 16, 2024",
-    "tags": [
-      "code"
-    ],
-    "image": "",
-    "link": "note/asr_mms_adapter_finetune_for_shan_language"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/4/46/Shan_paper_manuscript_bound_with_a_patterned_cotton_cloth_cover_and_a_felt_binding_ribbon.jpg",
+    "link": "blog/about_shan_dialect"
   },
   {
     "title": "Some useful Bash script",
@@ -108,16 +98,5 @@
     ],
     "image": "",
     "link": "note/shan_language_detection"
-  },
-  {
-    "title": "Finetune Vits TTS MMS for Shan language",
-    "subtitle": "",
-    "description": "Note for fintunning VITS base TTSMMS for Shan language",
-    "date": "June 6, 2024",
-    "tags": [
-      "code"
-    ],
-    "image": "",
-    "link": "note/vits_tts_mms_shan_finetune"
   }
 ]

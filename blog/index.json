@@ -276,6 +276,18 @@
     "link": "blog/the-future-of-shan-language"
   },
   {
+    "title": "Finetune Vits TTS MMS for Shan language",
+    "subtitle": "",
+    "description": "Note for fintunning VITS base TTSMMS for Shan language",
+    "date": "June 6, 2024",
+    "tags": [
+      "code",
+      "note"
+    ],
+    "image": "https://raw.githubusercontent.com/NoerNova/noernova.com_posts/main/blog/assets/vits_tts_mms_shan_finetune/finetune_tts_mms.webp",
+    "link": "blog/vits_tts_mms_shan_finetune"
+  },
+  {
     "title": "ChatGPT ပဵၼ်သင် ၸႂ်ႉလႆႈၸိူင်ႉႁိုဝ်လၢႆလၢႆ",
     "subtitle": "ChatGPT",
     "description": "လွင်ႈ ChatGPT AI ၶိုၵ်ႉၼႂ်းပၢၼ်ႁဝ်းႁႃး",
