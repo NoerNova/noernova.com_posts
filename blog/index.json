@@ -55,6 +55,18 @@
     "link": "blog/ai-life-and-shan-language-3"
   },
   {
+    "title": "Finetune Asr MMS adapter for Shan language",
+    "subtitle": "",
+    "description": "Note for fintunning ASRMMS for Shan language",
+    "date": "June 16, 2024",
+    "tags": [
+      "code",
+      "note"
+    ],
+    "image": "https://raw.githubusercontent.com/NoerNova/noernova.com_posts/main/blog/assets/asr_mms_adapter_finetune_for_shan_language/finetune_asr_mms.webp",
+    "link": "blog/asr_mms_adapter_finetune_for_shan_language"
+  },
+  {
     "title": "AWS (Amazon Web Service) BILL SHOCK!",
     "subtitle": "เจอ bill shock จาก AWS ไป 20,000 ขอคืนเงินได้นะ",
     "description": "ลองขอคืนเงินจาก AWS service ที่เราพลาดเอง",
