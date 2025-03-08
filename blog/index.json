@@ -195,6 +195,20 @@
     "link": "blog/meta-NLLB-shan-machine-translations"
   },
   {
+    "title": "OCR လွင်ႈႁူႉႁၼ်တူဝ်လိၵ်ႈ လူၺ်ႈသၢႆလႅင်း (Labs)",
+    "subtitle": "လွင်ႈတႅမ်ႈမၢႆၵၢၼ်လဵပ်ႈႁဵၼ်းၼႂ်းႁူဝ်ၶေႃႈ OCR လႄႈၽႃႇသႃႇတႆး",
+    "description": "Optical Character Recognition (OCR) လွင်ႈႁူႉႁၼ်တူဝ်လိၵ်ႈ လူၺ်ႈသၢႆလႅင်း။ ပဵၼ်ထႅၵ်ႉၶၼေႃႇလေႃႇၸီႇ ဢၼ်လမ်ႇလွင်ႈတႃႇ digitizing ၽႃႇသႃႇဢၼ်ၼိုင်ႈၼႂ်းပၢႆးၶွမ်ႇပိဝ်ႇတႃႇ၊ ၵူၺ်းၵႃႈ ယင်းမီးၽႃႇသႃႇထႅင်ႈတင်းၼမ်ဢၼ်ပႆႇမီး OCR ဢၼ်ၸႂ်ႉတိုဝ်းလႆႈလီလီ၊ မိူၼ်ၼင်ႇၽႃႇသႃႇတႆးႁဝ်းယဝ်ႉ။",
+    "date": "March 4, 2025",
+    "tags": [
+      "shan",
+      "language",
+      "ocr",
+      "shannlp"
+    ],
+    "image": "https://i.pinimg.com/736x/fe/90/9d/fe909d46154586ff48efe5af61310e45.jpg",
+    "link": "blog/ocr-lab-for-shan-language"
+  },
+  {
     "title": "လွၵ်းမိုဝ်းပၢင်လူင် (Panglong_Keyboard Open-Source Project)",
     "subtitle": "Panglong_Keyboard Open-Source Project",
     "description": "လွၵ်းမိုဝ်းတႆး ပၢင်လူင် တွၼ်ႈတႃႈၵူႈ platforms လႆႈတင်း Android, iPhone, Windows, macOS, Linux Ubuntu",
