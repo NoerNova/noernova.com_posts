@@ -1,17 +1,5 @@
 [
   {
-    "title": "About Shan Dialect",
-    "subtitle": "ထွႆႈၵႂၢမ်းၵႂၢမ်းလၢတ်ႈ ”တႆး” မီးလၢႆၸိူဝ်း",
-    "description": "how many Shan language dialect are there?",
-    "date": "May 28, 2024",
-    "tags": [
-      "shan-language",
-      "note"
-    ],
-    "image": "https://upload.wikimedia.org/wikipedia/commons/4/46/Shan_paper_manuscript_bound_with_a_patterned_cotton_cloth_cover_and_a_felt_binding_ribbon.jpg",
-    "link": "blog/about_shan_dialect"
-  },
-  {
     "title": "Some useful Bash script",
     "subtitle": "",
     "description": "some useful bash script",
@@ -76,17 +64,6 @@
     ],
     "image": "",
     "link": "note/security_tools"
-  },
-  {
-    "title": "Shan language in CLDR and LID",
-    "subtitle": "",
-    "description": "Shan language in term of Unicode encoding, CLDR and Language Identifier",
-    "date": "May 30, 2024",
-    "tags": [
-      "shan-language"
-    ],
-    "image": "",
-    "link": "note/shan_language_cldr_and_lid"
   },
   {
     "title": "Shan language text predictor",
