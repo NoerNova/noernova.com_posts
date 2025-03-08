@@ -1,8 +1,10 @@
 ---
-tags: ["shan-language"]
+tags: ["shan-language", "note"]
 date: "May 30, 2024"
 title: "Shan language in CLDR and LID"
-link: "note/shan_language_cldr_and_lid"
+subtitle: ""
+image: "https://i.pinimg.com/736x/5c/db/87/5cdb871f003aa400751fec3f3aca82ba.jpg"
+link: "blog/shan_language_cldr_and_lid"
 description: "Shan language in term of Unicode encoding, CLDR and Language Identifier"
 ---
 

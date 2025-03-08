@@ -379,7 +379,7 @@ with torch.no_grad():
 waveform = output.waveform[0]
 ```
 
-[Sample Audio](https://github.com/NoerNova/noernova.com_note/raw/main/assets/finetuned_output.wav)
+[Sample Audio](https://github.com/NoerNova/noernova.com_post/raw/main/blog/assets/vits_tts_mms_shan_finetune/finetuned_output.wav)
 
 ## Conclusion
 
