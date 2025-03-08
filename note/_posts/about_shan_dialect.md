@@ -1,8 +1,10 @@
 ---
-tags: ["shan-language"]
+tags: ["shan-language", "note"]
 date: "May 28, 2024"
 title: "About Shan Dialect"
-link: "note/about_shan_dialect"
+subtitle: "ထွႆႈၵႂၢမ်းၵႂၢမ်းလၢတ်ႈ ”တႆး” မီးလၢႆၸိူဝ်း"
+image: https://upload.wikimedia.org/wikipedia/commons/4/46/Shan_paper_manuscript_bound_with_a_patterned_cotton_cloth_cover_and_a_felt_binding_ribbon.jpg
+link: "blog/about_shan_dialect"
 description: "how many Shan language dialect are there?"
 ---
 
@@ -28,6 +30,6 @@ Prominent divergent dialects are considered separate languages, such as [Khün](
 ထွႆႈၵႂၢမ်းၵႂၢမ်းလၢတ်ႈ ”တႆး” မီးလၢႆၸိူဝ်း
 
 ၼႂ်း Wikipedia တႅမ်ႈဝႆႉ၊ ထွႆႈၵႂၢမ်း ၵႂၢမ်းလၢတ်ႈတႆး (Shan dialects) ၸၢင်ႈၸႅၵ်ႇၽႄဝႆႉပဵၼ် 3 ၸုမ်း၊ ၸွမ်းဢဝ်ဢွင်ႈတီႈ ပွတ်းတွၼ်ႈတီႈယူႇသေ ၸႅၵ်ႇဝႆႉပဵၼ် 1.တႆးပွတ်းၼိူဝ် (northern)၊ 2.တႆးပွတ်းဢွၵ်ႇ (southern)၊ 3.တႆးပွတ်းတႂ်ႈ (southern)
-ထွႆႈၵႂၢမ်းၸိူဝ်းၼႆႉပႅၵ်ႇပိူင်ႈၵၼ်ဢိတ်းဢွတ်းၸဵမ်သပ်းၵႂၢမ်းလႄႈသဵင်ဢွၵ်ႇ ၵူၺိးၵမ်ႈၼမ်တႄႉ ပွင်ႇၸႂ်ၵၼ်လႆႈလီလီယူႇ။
+ထွႆႈၵႂၢမ်းၸိူဝ်းၼႆႉပႅၵ်ႇပိူင်ႈၵၼ်ဢိတ်းဢွတ်းၸဵမ်သပ်းၵႂၢမ်းလႄႈသဵင်ဢွၵ်ႇ ၵူၺ်းၵမ်ႈၼမ်တႄႉ ပွင်ႇၸႂ်ၵၼ်လႆႈလီလီယူႇ။
 
 ထွႆႈၵႂၢမ်းတႆးပွတ်းတႂ်ႈ ယိပ်းယိုမ်ထွႆႈၵႂၢမ်းမၢၼ်ႈ၊ ထွႆႈၵႂၢမ်းပွတ်းဢွၵ်ႇ ၸမ်ၵၼ်တင်းထႆးပွတ်းၼိူဝ် (northern Thai) လႄႈလၢဝ်း (Lao) တွၼ်ႈထွႆႈသပ်းလႄႈသဵင်ဢွၵ်ႇ၊ လႄႈတႆးပွတ်းတွၼ်ႈၼိူဝ်မၢင်ၽဝ်ႇႁွင်ႉတႆးၶႄႇ (Chinese Shan) ထွႆႈၵႂၢမ်းၵမ်ႈၼမ်လႆႈႁပ်ႉမႃးတီႈ ၶႄႇယူႇၼၢၼ်ႇ (Yunnan-Chinese)။

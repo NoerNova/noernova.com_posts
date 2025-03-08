@@ -1,8 +1,10 @@
 ---
-tags: ["code"]
+tags: ["code", "note"]
 date: "June 6, 2024"
 title: "Finetune Vits TTS MMS for Shan language"
-link: "note/vits_tts_mms_shan_finetune"
+subtitle: ""
+image: https://raw.githubusercontent.com/NoerNova/noernova.com_posts/main/blog/assets/vits_tts_mms_shan_finetune/finetune_tts_mms.webp
+link: "blog/vits_tts_mms_shan_finetune"
 description: "Note for fintunning VITS base TTSMMS for Shan language"
 ---
 ## Contents
