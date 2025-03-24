@@ -50,11 +50,11 @@ GPT-2 ၵေႃႈပဵၼ် transformer-base။
 
 GPT-2, GPT-3 Large Language model ၸိူဝ်းၼႆႉ တေလႆႈၸႂ်ႉႁႅင်း Computer/GPU/TPU ၼမ်ႉတႄႉတႄႉဝႃႈဝႃႈသေၸင်ႇၵွႆႈ train ပဵၼ် AI model ဢွၵ်ႇမႃးလႆႈ။
 
-![gpt-2 training time {caption: gpt-2 training time}](/assets/fine-tuning-gpt2-for-shan-language/Screenshot-2567-01-12-at-03.24.18.png)
+![gpt-2 training time {caption: gpt-2 training time}](blog/assets/fine-tuning-gpt2-for-shan-language/Screenshot-2567-01-12-at-03.24.18.png)
 
 GPT-2 ၸႂ်ႉၶၢဝ်းယၢမ်း GPU 100,000 ၸူဝ်ႈမွင်း ပွင်ႇဝႃႈပေႃးၸႂ်ႉ GPU 1 ႁူၺ်ႇသေ train တေလႆႈၸႂ်ႉၶၢဝ်းယၢမ်း 11 ပီ။
 
-![gpt training cost {caption: gpt training cost}](/assets/fine-tuning-gpt2-for-shan-language/Screenshot-2567-01-12-at-03.25.08.png)
+![gpt training cost {caption: gpt training cost}](blog/assets/fine-tuning-gpt2-for-shan-language/Screenshot-2567-01-12-at-03.25.08.png)
 
 ၵႃႈၶၼ်ငိုၼ်းတႃႇၸႂ်ႉၼႂ်းၵၢၼ် train gpt-2 **40,000US dollar** လႄႈ GPT-3 ၶိုၼ်ႈၵႂႃႇပဵၼ် **4.6 လၢၼ်ႉ US dollar**။
 
@@ -73,7 +73,7 @@ GPT-2 ၸႂ်ႉၶၢဝ်းယၢမ်း GPU 100,000 ၸူဝ်ႈမ�
 
 တီႈၶႃႈတႄႉဢမ်ႇမီးဝႆႉ GPU လႄႈ တေၸႂ်ႉ [Google Colab](https://colab.research.google.com/) တူဝ် free မီး VRAM (GPU ram) ဢမ်ႇပဵင်းပေႃးလႄႈ တေလႆႈၸႂ်ႉ Colab Pro (A100 Nvidia)
 
-![google colab pro {caption: google colab pro pricing}](/assets/fine-tuning-gpt2-for-shan-language/Screenshot-2567-01-10-at-11.08.27.png)
+![google colab pro {caption: google colab pro pricing}](blog/assets/fine-tuning-gpt2-for-shan-language/Screenshot-2567-01-10-at-11.08.27.png)
 
 ***သိုဝ်ႉ Pro သေတႃႉၵေႃႈ လႆႈၸႂ်ႉ A100 ဢမ်ႇပူၼ်ႉသေ သၢမ်ပွၵ်ႈ lol***
 
@@ -140,7 +140,7 @@ GPT-2 model တေၵတ်ႉၶႅၼ်ႇ ၶိုၵ်ႉၶႅမ်ႉ�
 
 ၶေႃႈမုၼ်းဢၼ်လႆႈမႃးၸိူဝ်းၼႆႉပဵၼ်ၶေႃႈမုၼ်းဢၼ်ပိုၼ်ၽႄႈ api ဝႆႉတင်းမူတ်း ဝၢႆးသေ ၸၼ်ၶေႃႈမုၼ်း (.csv) ဝႆႉယဝ်ႉ လူဝ်ႇႁဵတ်း data cleaning ဢဝ်ဢွၵ်ႇပႅတ်ႈတူဝ်ဢၼ်ဢမ်ႇၸႂ်ႈတူဝ်လိၵ်ႈ မိူၼ်ၼင်ႇ တူဝ် "\n" "\t" လႄႈ HTML tags ၸိူဝ်းၼႆႉ။
 
-![data cleaning {caption: ၶၵ်ႉတွၼ်ႈၵၢၼ်သုၵ်ႈလၢင်ႉၶေႃႈမုၼ်း}](/assets/fine-tuning-gpt2-for-shan-language/Screenshot-2567-01-10-at-14.09.23.png)
+![data cleaning {caption: ၶၵ်ႉတွၼ်ႈၵၢၼ်သုၵ်ႈလၢင်ႉၶေႃႈမုၼ်း}](blog/assets/fine-tuning-gpt2-for-shan-language/Screenshot-2567-01-10-at-14.09.23.png)
 
 ***clean .csv data***
 
@@ -262,7 +262,7 @@ gpt2_tokenizer
 gpt2_tokenizer.push_to_hub("shannews_bpe_extened_tokenizer")
 ```
 
-![tokenization {caption: BPE tokenization training}](/assets/fine-tuning-gpt2-for-shan-language/Screenshot-2567-01-12-at-02.53.04.png)
+![tokenization {caption: BPE tokenization training}](blog/assets/fine-tuning-gpt2-for-shan-language/Screenshot-2567-01-12-at-02.53.04.png)
 
 ### Step 3. Data Preprocessing
 

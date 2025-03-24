@@ -70,7 +70,7 @@ RAG ပဵၼ်လွၵ်းလၢႆးဢၼ်ႁဝ်းၸၢင်ႈ�
 
 ၽႃႇသႃႇတႆးလူး လႆႈမီးၵၢၼ်ယုၵ်ႉမုၼ်းၼႂ်းၵၢပ်ႈပၢၼ် AI ၸိူင်ႉႁိုဝ်ၽွင်ႈၼႂ်းပီ 2024?
 
-![lope-chat-shan-llm-demo {caption: LLM ၽႃႇသႃႇတႆး ဢၼ်တိုၵ်ႉမီးၶေႃႈမုၼ်းဢေႇ ပႆႇတွပ်ႇလႆႈမိူၼ်ၶေႃႈၵႂၢမ်းၵူၼ်းလီလီ}](/assets/2024-Wrap-up-on-AI-trend-and-Shan-language/lobe_chat_shan_llm.png)
+![lope-chat-shan-llm-demo {caption: LLM ၽႃႇသႃႇတႆး ဢၼ်တိုၵ်ႉမီးၶေႃႈမုၼ်းဢေႇ ပႆႇတွပ်ႇလႆႈမိူၼ်ၶေႃႈၵႂၢမ်းၵူၼ်းလီလီ}](blog/assets/2024-Wrap-up-on-AI-trend-and-Shan-language/lobe_chat_shan_llm.png)
 
 > ၵၢၼ်ယုၵ်ႉမုၼ်း AI မိူၼ်ၼင်ႇ Gen-AI လႆႈၸႂ်ႉတင်းႁႅင်းၵူၼ်း ႁႅင်းငိုၼ်း လႄႈႁႅင်းပၢႆးပၺ်ႇၺႃႇႁူမ်ႈၵၼ်သေ ၸင်ႇပဵၼ်မႃးလႆႈ။
 
@@ -98,11 +98,11 @@ Large Language Model မိူၼ်ၼင်ႇ GPT-3 ၼၼ်ႉၶဝ်ၸ�
 
 ၽူႈတႅမ်ႈပွင်ႈၵႂၢမ်းလႆႈႁႃၵဵပ်းၶေႃႈမုၼ်းဢၼ်ပဵၼ်လိၵ်ႈတႆးဢၼ်မီးၼိူဝ် internet တင်းမူၼ်းၼင်ႇၵႃႈႁႃလႆႈၼၼ်ႉ မီးယူႇ 140+ ဝႅပ်ႉသၢႆႉသ်ၸိူဝ်းၼႆႉ မီးၶေႃႈမုၼ်းလိၵ်ႈယူႇ 1GB ၸိူဝ်းၼႆႉၵူၺ်း။
 
-![shan-character-counts](/assets/2024-Wrap-up-on-AI-trend-and-Shan-language/shan_character_counts.png)
+![shan-character-counts](blog/assets/2024-Wrap-up-on-AI-trend-and-Shan-language/shan_character_counts.png)
 
 ၼႂ်းၶေႃႈမုၼ်းဢၼ်မီးဝႆႉၼၼ်ႉ ပေႃးၼိူင်း domain တူၺ်းၼႆႉ ၶေႃႈမုၼ်းၵမ်ႈၼမ်ပဵၼ်ၶေႃႈမုၼ်းၶၢဝ်ႇ ၵၢၼ်မိူင်း ၵၢၼ်သိုၵ်း ၸိူဝ်းၼႆႉၼမ်သေပိူၼ်ႈယဝ်ႉ။
 
-![shan_character_counts_2](/assets/2024-Wrap-up-on-AI-trend-and-Shan-language/shan_character_counts_2.png)
+![shan_character_counts_2](blog/assets/2024-Wrap-up-on-AI-trend-and-Shan-language/shan_character_counts_2.png)
 
 ၶေႃႈမုၼ်းလီဢၼ်တေၸႂ်ႉလႆႈလီၼႂ်းၵၢၼ်သွၼ်ပၼ် LLM ၼႆ လီလႆႈမီးလွင်ႈဢၼ်ပႅၵ်ႇလၢၵ်ႇ လႄႈမီးတၢင်းႁူႉၵႂၢင်ႈၶႂၢင် (covers a diverse range of topics and domains) မိူၼ်ၼင်ႇ ပိုၼ်း၊ တၢင်းႁူႉၵူႈလွင်ႈၵူႈပၢႆး ၸိူဝ်းၼၼ်ႉတေလီသေပိူၼ်ႈ၊ ၼႂ်းၶေႃႈမုၼ်းၸိူဝ်းၼႆႉ မီး wiki တႆးၸိူဝ်းၼႆႉယူႇသေတႃႉ ၵူၺ်းၽူႈတႅမ်ႈလိၵ်ႈပၼ် wiki ယင်းတိုၵ်ႉမီးဢေႇႁႅင်းတႄႉတႄႉ။
 
@@ -116,35 +116,35 @@ Large Language Model မိူၼ်ၼင်ႇ GPT-3 ၼၼ်ႉၶဝ်ၸ�
 
 glotcc-v1 ပဵၼ် multilanguage datasets ဢၼ်မီးတၢင်းယႂ်ႇ 2.38TB လႄႈမီးထႅဝ်ၶေႃႈမုၼ်းယူႇမွၵ်ႈ 1,280,740,722 rows ၼႂ်းၼၼ်ႉပႃးၶေႃႈမုၼ်းလိၵ်ႈတႆး 648 rows (0.00005%)
 
-![glotcc-v1](/assets/2024-Wrap-up-on-AI-trend-and-Shan-language/glotcc_v1.png)
+![glotcc-v1](blog/assets/2024-Wrap-up-on-AI-trend-and-Shan-language/glotcc_v1.png)
 
 ### [Wikipedia 20231101](https://huggingface.co/datasets/wikimedia/wikipedia)
 
 ၼႂ်းၶေႃႈမုၼ်းပႃႈတႂ်ႈ wikipedia (2023/11/01) တင်းမူတ်းၵူႈၽႃႇသႃႇ မီးတၢင်းယႂ်ႇၶေႃႈမုၼ်း 71.8GB လႄႈမီးထႅဝ်ၶေႃႈမုၼ်းယူႇမွၵ်ႈ 61,614,907 rows ၼႂ်းၼၼ်ႉပႃးၶေႃႈမုၼ်းတီႈ shn.wikipedia.org ယူႇ 13,945 rows (0.023%)
 
-![shn.wikipedia.org](/assets/2024-Wrap-up-on-AI-trend-and-Shan-language/shn_wikipedia.png)
+![shn.wikipedia.org](blog/assets/2024-Wrap-up-on-AI-trend-and-Shan-language/shn_wikipedia.png)
 
 ၼႂ်းၶေႃႈမုၼ်း wikipedia ၽႃႇသႃႇတႆး 13,945 ႁူဝ်ၼၼ်ႉ မီးၼိူဝ်ႉၶေႃႈမုၼ်း လွၼ်ႉလိူင်ႈ ဢၼ်ၼပ်ႉတူဝ်လိၵ်ႈလႆႈၼမ်သေ 500 တူဝ်မီးယူႇ 1,613 ႁူဝ် ၵမ်ႉၼမ်တေမီးႁူဝ်ၼပ်ႉတူဝ်လိၵ်ႈယူႇ 300 - 400 တူဝ်။
 
-![wikipedia_content_length](/assets/2024-Wrap-up-on-AI-trend-and-Shan-language/wikipedia_content_length.png)
+![wikipedia_content_length](blog/assets/2024-Wrap-up-on-AI-trend-and-Shan-language/wikipedia_content_length.png)
 
 ### [xsimplusplus](https://huggingface.co/datasets/jaygala24/xsimplusplus)
 
 glotcc-v1 ပဵၼ် Bitext multilanguage datasets ဢမ်ႇၼၼ် Parallel datasets ဢၼ်မီးတၢင်းယႂ်ႇ 1.18GB လႄႈမီးထႅဝ်ၶေႃႈမုၼ်းယူႇမွၵ်ႈ 815,654 rows ၼႂ်းၼၼ်ႉပႃးၶေႃႈမုၼ်းလိၵ်ႈတႆး 997 rows (0.12%)
 
-![xsimplusplus](/assets/2024-Wrap-up-on-AI-trend-and-Shan-language/xsimplusplus.png)
+![xsimplusplus](blog/assets/2024-Wrap-up-on-AI-trend-and-Shan-language/xsimplusplus.png)
 
 ### [NLLB (No Language Left Behind)](https://huggingface.co/datasets/allenai/nllb)
 
 NLLB ပဵၼ်ၶူင်းၵၢၼ် research ၶွင် Meta (Facebook) ဢၼ်ပဵၼ်ၶေႃႈမုၼ်း Parallel datasets မီးတၢင်းယႂ်ႇၶေႃႈမုၼ်း ~450GB ၵမ်ႉၼမ်ပဵၼ်ၶေႃႈမုၼ်းဢၼ်လုၵ်ႉတီႈလိၵ်ႈ Bible မႃး မီးထႅဝ်ၶေႃႈမုၼ်းယူႇ 646,442 ထႅဝ်။
 
-![nllb](/assets/2024-Wrap-up-on-AI-trend-and-Shan-language/nllb.png)
+![nllb](blog/assets/2024-Wrap-up-on-AI-trend-and-Shan-language/nllb.png)
 
 ### [SIB200](https://huggingface.co/datasets/mteb/sib200)
 
 sib200 ပဵၼ်ၶေႃႈမုၼ်း multilanguage topics classification မီးတၢင်းယႂ်ႇၶေႃႈမုၼ်း 33.8MB ထႅဝ်ၶေႃႈမုၼ်း 396,580 rows ပႃးဝႆႉလိၵ်ႈတႆး 701 rows (0.18%)
 
-![sib200](/assets/2024-Wrap-up-on-AI-trend-and-Shan-language/sib200.png)
+![sib200](blog/assets/2024-Wrap-up-on-AI-trend-and-Shan-language/sib200.png)
 
 ထႅင်ႈပိူင်ၼိုင်ၵေႃႈ ၼႂ်းၶေႃႈမုၼ်းၸႃႉၼႄတူဝ်ယၢင်ႇမႃးၼႆႉ ပေႃးထတ်းတူၺ်းလီလီယဝ်ႉ တေႁၼ်ဝႃႈလၢႆလၢႆတီႈ လၢႆလၢႆဢၼ်ယင်းႁၼ်တီႈၽိတ်းတီႈပိူင်ႈၼမ် တူဝ်လေႃးလိၵ်ႈ၊ ပိၼ်ႇၽႃႇသႃႇၽိတ်း၊ တႅမ်ႈဢမ်ႇမိူၼ်ၵၼ်ၸိူဝ်းၼႆႉၵေႃႈမီးတင်းၼမ်။
 

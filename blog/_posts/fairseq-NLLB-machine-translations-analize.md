@@ -47,7 +47,7 @@ NLLB -> [https://github.com/facebookresearch/flores](https://github.com/facebook
 
 ၶေႃႈမုၼ်း bible ၸိူဝ်းၼႆႉတီႉဢတ်းသဵင်ဝႆႉၼပ်ႉႁူဝ်သိပ်းသၢဝ်းပီပူၼ်ႉမႃးယဝ်ႉ ၸၢမ်းထွမ်ႇတူၺ်းမၢင်ၶေႃႈၼႂ်းၶေႃႈမုၼ်းသဵင်ၸိူဝ်းၼၼ်ႉၵေႃႈ မၢင်ၶေႃႈမိူၼ်ၼင်ႇ "ၵၢင်ႁၢဝ်", "ၵင်ႁဝ်" ၸိူဝ်းၼႆႉၵေႃႈယင်းတိုၵ်ႉပိူင်ႈၵၼ်ဝႆႉလႄႈ တေႁၼ်ဝႃႈပေႃးၸၢမ်းၸႂ်ႉတူၺ်းၼႆသဵင်ဢၼ်ဢွၵ်ႇမႃးၼၼ်ႉတေဢမ်ႇၽဵၼ်ႈမိူၼ်ၵႂၢမ်းတႆးလူင်ဢၼ်ႁဝ်းၸႂ်ႉဝႆႉမိူဝ်ႈလဵဝ်
 
-![IMG_4898 {caption: script လိၵ်ႈတႆးၼႂ်းၽိုၼ်လိၵ်ႈ bible}](/assets/fairseq-NLLB-machine-translations-analize/IMG_4898.png)
+![IMG_4898 {caption: script လိၵ်ႈတႆးၼႂ်းၽိုၼ်လိၵ်ႈ bible}](blog/assets/fairseq-NLLB-machine-translations-analize/IMG_4898.png)
 
 ထႅင်ႈပိူင်ၼိုင်ႈ ၵွပ်ႈဝႃႈၶေႃႈမုၼ်းသဵင်ဢၼ်ၸႂ်ႉဢမ်ႇၸႂ်ႈလၢႆးဢၼ်ႁဝ်းၸႂ်ႉတႃႇလၢတ်ႈတေႃႇၵၼ်ၵူႈဝၼ်းၼႆလႄႈ မၢင်ၶေႃႈ လမ်ႇၶိုၼ်ႈလူင်းၵေႃႈမၼ်းတေၶႆႈပိူင်ႈဝႆႉ။
 
@@ -77,11 +77,11 @@ spec computer ၼႆႉဢိင်ၼိူဝ်ၶေႃႈမုၼ်းဢ
 
 > Then, we trace the development process of professionally-translated seed bitext data in 39 low-resource languages, giving us the ability to train any models that require parallel data
 
-![Screenshot_2566-09-08_at_20.21.08 {caption: တူဝ်ယၢင်ႇၶေႃႈမုၼ်းပိၼ်ႇၽႃႇသႃႇ NLLB_200}](/assets/fairseq-NLLB-machine-translations-analize/Screenshot_2566-09-08_at_20.21.08.png)
+![Screenshot_2566-09-08_at_20.21.08 {caption: တူဝ်ယၢင်ႇၶေႃႈမုၼ်းပိၼ်ႇၽႃႇသႃႇ NLLB_200}](blog/assets/fairseq-NLLB-machine-translations-analize/Screenshot_2566-09-08_at_20.21.08.png)
 
 ၶဝ်ၸႂ်ႉၵူၼ်းသေပိၼ်ႇၽႃႇသႃႇ Language-Pair လိၵ်ႈဢိင်းၵရဵတ်ႈလႄႈၽႃႇသႃႇဢၼ်တေပိၼ်ႇ
 
-![Screenshot_2566-09-08_at_20.25.05 {caption: တူဝ်ယၢင်ႇၶေႃႈမုၼ်းပိၼ်ႇၽႃႇသႃႇ NLLB_dataset}](/assets/fairseq-NLLB-machine-translations-analize/Screenshot_2566-09-08_at_20.25.05.png)
+![Screenshot_2566-09-08_at_20.25.05 {caption: တူဝ်ယၢင်ႇၶေႃႈမုၼ်းပိၼ်ႇၽႃႇသႃႇ NLLB_dataset}](blog/assets/fairseq-NLLB-machine-translations-analize/Screenshot_2566-09-08_at_20.25.05.png)
 
 တူဝ်ယၢင်ႇၶေႃႈမုၼ်းပိၼ်ႇၽႃႇသႃႇလူၺ်ႈၵူၼ်း ၼႂ်း [NLLB-200-SEED](https://github.com/facebookresearch/flores/tree/main/nllb_seed)
 

@@ -60,9 +60,9 @@ Fine-Tune ၼၼ်ႉပဵၼ်လွၵ်းလၢႆးၼိုင်ႈ 
 
 (သူၼ်ၸႂ်လဵပ်ႈႁဵၼ်း - [Fine-tune GPT2 for Shan text-generator](blog/fine-tuning-gpt2-for-shan-language))
 
-![Sample datasets {caption: prompter-assistant dataset}](/assets/fine-tuning-llama3-for-shan-language/Screenshot-2567-07-25-at-02.19.07.png)
+![Sample datasets {caption: prompter-assistant dataset}](blog/assets/fine-tuning-llama3-for-shan-language/Screenshot-2567-07-25-at-02.19.07.png)
 
-![Sample datasets {caption: prompter-assistant dataset}](/assets/fine-tuning-llama3-for-shan-language/Screenshot-2567-07-25-at-02.19.42.png)
+![Sample datasets {caption: prompter-assistant dataset}](blog/assets/fine-tuning-llama3-for-shan-language/Screenshot-2567-07-25-at-02.19.42.png)
 
 ၼင်ႇၶေႃႈမုၼ်းၽၢႆႇၼိူဝ်ၼၼ်ႉ ပေႃးၽူႈထၢမ် (prompter) လၢတ်ႈဝႃႈ "မႂ်ႇသုင်ၶႃႈ" ၼႆ assistant တေလႆႈတွပ်ႇဝႃႈၸိူင်ႉႁိုဝ် ၼႆၼၼ်ႉယဝ်ႉ။
 
@@ -112,7 +112,7 @@ python translate.py --max_length 1024 nllb --model_size 3.3B shn_Mymr ./output_s
 Script ၽၢႆႇၼိူဝ်ၼႆႉ ၸႂ်ႉမေႃႇတႄႇလ် nllb3.3B သေၶိုၼ်းပိၼ်ႇၽႃႇသႃႇၸုမ်ႇၶေႃႈမုၼ်း OASST1 ႁႂ်ႈပဵၼ်ၽႃႇသႃႇတႆး။
 သင်ၸိူဝ်ႉဝႃႈ VRAM ႁဝ်းဢမ်မီးၼမ် ႁိုဝ်မီး Error ဝႃႈ CUDA out of memory ၼႆၸၢမ်းယွမ်းတူၺ်း parameter --max_langth ဢမ်ႇၼၼ်လႅၵ်ႈတူၺ်းမေႃႇတႄႇလ်ပဵၼ် nllb1.3။
 
-![NLLB {caption: translate_with_nllb}](/assets/fine-tuning-llama3-for-shan-language/translate_with_nllb.jpg)
+![NLLB {caption: translate_with_nllb}](blog/assets/fine-tuning-llama3-for-shan-language/translate_with_nllb.jpg)
 
 ၶၵ်ႉတွၼ်ႈၼႆႉၸႂ်ႉၶၢဝ်းယၢမ်းပိၼ်ႇၽႃႇသႃႇ **20 ၸူဝ်ႈမွင်းလိူဝ်လိူဝ်** မီးထႅဝ်ၶေႃႈမုၼ်းမွၵ်ႈ 84,000 ပၢႆ။
 
@@ -120,7 +120,7 @@ Script ၽၢႆႇၼိူဝ်ၼႆႉ ၸႂ်ႉမေႃႇတႄႇလ
 
 ### 2.1. Dataset checking
 
-![Checking Datasets {caption: checking_dataset}](/assets/fine-tuning-llama3-for-shan-language/Screenshot-2024-07-26-002559.png)
+![Checking Datasets {caption: checking_dataset}](blog/assets/fine-tuning-llama3-for-shan-language/Screenshot-2024-07-26-002559.png)
 
 ၶေႃႈမုၼ်းဢၼ်ပိၼ်ၽႃႇသႃႇမႃးၼႆႉ ၵမ်ႉဢေႇၵူၺ်းဢၼ်မီးလွင်ႈမၢၼ်ႇမႅၼ်ႈ လႄႈၼမ်ႉၵႂၢမ်းၵေႃႈဢမ်ႇမိူၼ်ၼမ်ႉၵႂၢမ်းဢၼ်ၽႃႇသႃႇတႆးၸႂ်ႉတိုဝ်းၵၼ်၊ လိူဝ်သေၼၼ်ႉ ယင်းထူပ်းပၼ်ႁႃ repetitive problem ဢၼ်မီးတူဝ်သွၼ်ႉလၢႆလၢႆတူဝ်ဢၼ်ဢမ်ႇပွင်ႇၵႂၢမ်းမၢႆသင်၊ ပေႃးပိူင် LLM တႄႉလႆႈဝႃႈပဵၼ်ၶေႃႈမုၼ်းဢၼ်ဢမ်ႇၸႂ်ႉလႆႈလီလီၼၼ်ႉယဝ်ႉ။
 
@@ -128,7 +128,7 @@ Script ၽၢႆႇၼိူဝ်ၼႆႉ ၸႂ်ႉမေႃႇတႄႇလ
 
 ### 3. Combine dataset checkpoint
 
-![Sample datasets {caption: output_shn}](/assets/fine-tuning-llama3-for-shan-language/Screenshot-2024-07-26-004433.png)
+![Sample datasets {caption: output_shn}](blog/assets/fine-tuning-llama3-for-shan-language/Screenshot-2024-07-26-004433.png)
 
 ```python
 python combine_checkpoints.py ./output_shn <local_folder or HF repo>
@@ -136,7 +136,7 @@ python combine_checkpoints.py ./output_shn <local_folder or HF repo>
 
 တွၼ်ႈၼႆႉတေဢဝ်ၸုမ်ႇၶေႃႈမုၼ်းဢၼ်ပိၼ်ႇၽႃႇသႃႇယဝ်ႉၼၼ်ႉ ၶိုၼ်းႁူမ်ႈၵၼ်ႁႂ်ႈပဵၼ် HF's dataset format သေလႄႈသိမ်းဝႆႉၼႂ်း folder မႂ်ႇ ဢမ်ႇၼၼ် Huggingface repo၊ ပေႃးဝႃႈတေသိမ်းၼႂ်း Huggingface repo ၼႆႉႁႂ်ႈပၼ်ပႃး HF_TOKEN env။
 
-![Datasets Checkpoint {caption: combine_checkpoint}](/assets/fine-tuning-llama3-for-shan-language/Screenshot-2024-07-26004449.png)
+![Datasets Checkpoint {caption: combine_checkpoint}](blog/assets/fine-tuning-llama3-for-shan-language/Screenshot-2024-07-26004449.png)
 
 ### 4. Finetune
 
@@ -152,9 +152,9 @@ python finetune.py  --base_model --batch_size 2 llama3_shan_finetuned .\combine_
 
 vast.ai ပဵၼ် service ပၼ်ႁိမ် GPU ၸူဝ်ႈၵမ်း လႄႈမီးၵႃႈၶၼ်ထုၵ်ႇ မိူၼ်ၼင်ႇတီႈၼႆႈ ႁဝ်းလၢမ်းဝႃႈလူဝ်ႇ VRAM မွၵ်ႈ 48GB ၼႆ တေတူၵ်းမွၵ်ႈ **1 ၸူဝ်ႈမွင်း 1 တေႃႇလႃႇ** ပေႃးဝႃႈႁဝ်း train ဢမ်ႇႁိုင်ၼႆတႄႉ တေၸၢင်ႈသၢင်ႇထုၵ်ႇယူႇ ၼင်ႇၵၢၼ် finetune llama3 လူၺ်ႈၶေႃႈမုၼ်းဢမ်ႇထိုင် 100,000 record ၸိူဝ်းၼႆႉတေဢမ်ႇပူၼ်ႉသေ 3 ၸူဝ်ႈမွင်း။
 
-![VastAI {caption: vast.ai}](/assets/fine-tuning-llama3-for-shan-language/Screenshot-2024-07-26-005957.png)
+![VastAI {caption: vast.ai}](blog/assets/fine-tuning-llama3-for-shan-language/Screenshot-2024-07-26-005957.png)
 
-![Train on VastAI {caption: train on RTX6000Ada}](/assets/fine-tuning-llama3-for-shan-language/Screenshot-2024-07-08-033145.png)
+![Train on VastAI {caption: train on RTX6000Ada}](blog/assets/fine-tuning-llama3-for-shan-language/Screenshot-2024-07-08-033145.png)
 
 Finetune ၼိူဝ် Vast.ai လိူၵ်ႈၸႂ်ႉ GPU RTX6000Ada ဢၼ်မီးႁႅင်း VRAM 48GB ၸႂ်ႉမိူဝ်ႈၽွင်း train ၼၼ်ႉ 42GB ၸႂ်ႉၶၢဝ်းယၢမ်း setup လႄႈ train 2:45 ၸူဝ်ႈမွင်း။
 
@@ -280,7 +280,7 @@ Ollama ပဵၼ်ပရူဝ်ႇၵရႅမ်ႇဢၼ်ၸၼ်လူ�
 
 ဝၢႆးသေ install ယဝ်ႉၵေႃႉၸႂ်ႉလႆႈၼႂ်း terminal ၵမ်းလဵဝ်ယဝ်ႉ။
 
-![Ollama {caption: ollama_cli}](/assets/fine-tuning-llama3-for-shan-language/Screenshot-2024-07-26-021057.png)
+![Ollama {caption: ollama_cli}](blog/assets/fine-tuning-llama3-for-shan-language/Screenshot-2024-07-26-021057.png)
 
 ၼင်ႇႁိုဝ်တေပဵၼ် Chat interface လႄႈမီးၶိူင်ႈမိုဝ်းတႃႇၸၢမ်း LLM ႁဝ်းတင်းၼမ်ၼၼ်ႉ ႁဝ်းတေသႂ်ႇထႅင်ႈ Open WebUI တႃႇတေ serve ollama
 
@@ -288,7 +288,7 @@ Ollama ပဵၼ်ပရူဝ်ႇၵရႅမ်ႇဢၼ်ၸၼ်လူ�
 pip install open-webui
 ```
 
-![Open WebUI {caption: open-webui}](/assets/fine-tuning-llama3-for-shan-language/Screenshot-2024-07-26-021416.png)
+![Open WebUI {caption: open-webui}](blog/assets/fine-tuning-llama3-for-shan-language/Screenshot-2024-07-26-021416.png)
 
 #### Run model with Ollama
 
@@ -308,7 +308,7 @@ ollama create shandemo -f ./shandemo
 
 check တူၺ်း
 
-![Ollama list {caption: ollama list}](/assets/fine-tuning-llama3-for-shan-language/Screenshot-2024-07-26-022150.png)
+![Ollama list {caption: ollama list}](blog/assets/fine-tuning-llama3-for-shan-language/Screenshot-2024-07-26-022150.png)
 
 #### Serve with Open WebUI
 
@@ -318,31 +318,31 @@ check တူၺ်း
 open-webui serve
 ```
 
-![Open WebUI {caption: open-webui serve}](/assets/fine-tuning-llama3-for-shan-language/Screenshot-2024-07-26-022542.png)
+![Open WebUI {caption: open-webui serve}](blog/assets/fine-tuning-llama3-for-shan-language/Screenshot-2024-07-26-022542.png)
 
 တီႈၼႂ်း Web Browser ၶဝ်ႈၵႂႃႇတီႈ ```http://localhost:8080```
 
 ပွၵ်ႈဢွၼ်တၢင်းသုတ်းၼၼ်ႉ တေလႆႈၵေႃႇသၢင်ႈဢၵွင်ႇဢွၼ်တၢင်း Signup ၸႂ်ႉသင်ၵေႃႈလႆႈ ဢမ်ႇတၢပ်ႈလူဝ်ႇပဵၼ်ဢီးမေးလ်ဢၼ်တႄႉမၼ်း၊ ၵေႃႉဢွၼ်တၢင်းသုတ်းၼၼ်ႉ တေပဵၼ် admin။
 
-![Open WebUI {caption: open-webui login}](/assets/fine-tuning-llama3-for-shan-language/Screenshot-2024-07-26-022659.png)
+![Open WebUI {caption: open-webui login}](blog/assets/fine-tuning-llama3-for-shan-language/Screenshot-2024-07-26-022659.png)
 
 ၼႃႈဝႅပ်ႉသၢႆႉ တေငၢႆးငၢႆးမိူၼ် ChatGPT ယူႇ။
 
-![Open WebUI {caption: webui}](/assets/fine-tuning-llama3-for-shan-language/Screenshot-2024-07-26-022828.png)
+![Open WebUI {caption: webui}](blog/assets/fine-tuning-llama3-for-shan-language/Screenshot-2024-07-26-022828.png)
 
 ၵႂႃႇတီႈၼႂ်း Workspace သေတေႁၼ်ဝႃႈ Ollama model ႁဝ်းၼၼ်ႉ run ဝႆႉယူႇယဝ်ႉ။
 
-![Open WebUI {caption: webui}](/assets/fine-tuning-llama3-for-shan-language/Screenshot-2024-07-26-023439.png)
+![Open WebUI {caption: webui}](blog/assets/fine-tuning-llama3-for-shan-language/Screenshot-2024-07-26-023439.png)
 
 တဵၵ်းတီႈ model ႁဝ်းၼၼ်ႉသေၸၢမ်းလၢတ်ႇတူၺ်းၼႂ်း Chat
 
-![Open WebUI {caption: webui-chat1}](/assets/fine-tuning-llama3-for-shan-language/Screenshot-2024-07-11-020547.png)
+![Open WebUI {caption: webui-chat1}](blog/assets/fine-tuning-llama3-for-shan-language/Screenshot-2024-07-11-020547.png)
 
-![Open WebUI {caption: webui-chat2}](/assets/fine-tuning-llama3-for-shan-language/Screenshot-2024-07-11-023045.png)
+![Open WebUI {caption: webui-chat2}](blog/assets/fine-tuning-llama3-for-shan-language/Screenshot-2024-07-11-023045.png)
 
 သင်ဝႃႈမေႃႇတႄႇဢမ်ႇပၼ်ၶေႃႈတွပ်ႇလႆႈလီၵေႃႈ ၸၢမ်း edit တူၺ်း system prompt လႄႈ parameter ၸိူဝ်းၼႆႉတူၺ်း
 
-![Open WebUI {caption: webui-chat2}](/assets/fine-tuning-llama3-for-shan-language/Screenshot-2024-07-26-024329.png)
+![Open WebUI {caption: webui-chat2}](blog/assets/fine-tuning-llama3-for-shan-language/Screenshot-2024-07-26-024329.png)
 
 ## Conclution
 

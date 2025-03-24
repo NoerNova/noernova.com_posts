@@ -32,10 +32,10 @@ description: ထိုင်မႃးၵၢပ်ႈပၢၼ် AI လႄႈ �
 
 ပၢၼ်ဢိၼ်ႇတိူဝ်ႇၼႅတ်ႉၽႅဝ်ထိုင်မႃးလၢႆသိပ်းပီမိူင်းယဝ်ႉ ၸၢမ်းသျိူတ်ႉႁႃတူၺ်းလွင်ႈယၵ်းၶိုၼ်ႈတူၺ်းလူး။
 
-1. [ယၵ်းၶိုၼ်ႈ shn.wiktionary.org](https://shn.wiktionary.org/wiki/%E1%80%9A%E1%81%B5%E1%80%BA%E1%80%B8%E1%81%B6%E1%80%AD%E1%80%AF%E1%81%BC%E1%80%BA%E1%82%88) ![ယၵ်းၶိုၼ်ႈ shn.wiktionary.org](/assets/the-future-of-shan-language/Screenshot-2566-11-16-at-02.26.56.png)
-2. [TaiEdu4All youtube channel](https://www.youtube.com/@taiedu4all188) ![TaiEdu4All youtube channel](/assets/the-future-of-shan-language/Screenshot-2566-11-16-at-02.23.16.png)
-3. [Shan alphabet en.wikipedia.org](https://en.wikipedia.org/wiki/Shan_alphabet#Consonants)![Shan alphabet en.wikipedia.org](/assets/the-future-of-shan-language/Screenshot-2566-11-16-at-02.27.54.png)
-4. [Shan Language en.wikipedia.org](https://en.wikipedia.org/wiki/Shan_language)![Shan Language en.wikipedia.org](/assets/the-future-of-shan-language/Screenshot-2566-11-21-at-01.26.35.png)
+1. [ယၵ်းၶိုၼ်ႈ shn.wiktionary.org](https://shn.wiktionary.org/wiki/%E1%80%9A%E1%81%B5%E1%80%BA%E1%80%B8%E1%81%B6%E1%80%AD%E1%80%AF%E1%81%BC%E1%80%BA%E1%82%88) ![ယၵ်းၶိုၼ်ႈ shn.wiktionary.org](blog/assets/the-future-of-shan-language/Screenshot-2566-11-16-at-02.26.56.png)
+2. [TaiEdu4All youtube channel](https://www.youtube.com/@taiedu4all188) ![TaiEdu4All youtube channel](blog/assets/the-future-of-shan-language/Screenshot-2566-11-16-at-02.23.16.png)
+3. [Shan alphabet en.wikipedia.org](https://en.wikipedia.org/wiki/Shan_alphabet#Consonants)![Shan alphabet en.wikipedia.org](blog/assets/the-future-of-shan-language/Screenshot-2566-11-16-at-02.27.54.png)
+4. [Shan Language en.wikipedia.org](https://en.wikipedia.org/wiki/Shan_language)![Shan Language en.wikipedia.org](blog/assets/the-future-of-shan-language/Screenshot-2566-11-21-at-01.26.35.png)
 
 သျိူတ်ႉႁႃဝႃႈ "ယၵ်းၶိုၼ်ႈ" ၼႂ်း google ႁၼ်းဝႆႉမီးၸိူဝ်းၼႆႉၵူၺ်း လႆႈဝႃႈမီးၶေႃႈမုၼ်းဢၼ်ၸၢင်ႈဢၢင်ႈဢိင်ဢႄႇႁႅင်းတႄႉတႄႉ။
 
@@ -70,11 +70,11 @@ Resource တၢင်းၼိူဝ်ၼၼ်ႉ ပၼ် Definition "ယၵ
 - ၼႃ -> ၼႃႊ (သဵင်ၼၵ်း) -> Please!
 - လီ -> လီႊ (သဵင်ၼၵ်း) -> Good!
 
-![Shan-English Dictionary by Sao Tern Moeng {caption: Difinition ၼႂ်းပပ်ႉသပ်း Sao Tern Moeng}](/assets/the-future-of-shan-language/Image.jpeg)
+![Shan-English Dictionary by Sao Tern Moeng {caption: Difinition ၼႂ်းပပ်ႉသပ်း Sao Tern Moeng}](blog/assets/the-future-of-shan-language/Image.jpeg)
 
 တေႁၼ်ဝႃႈ တီႈၼိုင်ႈလႄႈတီႈၼိုင်ႈ ၵေႃႉၼိုင်ႈလႄႈၵေႃႉၼိုင်ႈ ၸႂ်ႉတိုဝ်းယၵ်းၶိုၼ်ႈဢမ်ႇမိူၼ်ၵၼ် မၢင်တီႈၵေႃႈဢမ်ႇႁူႉတႅမ်ႈၽိတ်းႁိုဝ် ဢမ်ႇၼၼ်ၵေႃႈမၼ်းဢမ်ႇၸႂ်ႈတူဝ်လဵဝ်ၵၼ်ႁိုဝ်?
 
-![Used in Facebook {caption: ယၵ်းၶိုၼ်ႈသွင်တီႈၼႂ်း post Facebook}](/assets/the-future-of-shan-language/Screenshot-2566-11-16-at-02.50.21.png)
+![Used in Facebook {caption: ယၵ်းၶိုၼ်ႈသွင်တီႈၼႂ်း post Facebook}](blog/assets/the-future-of-shan-language/Screenshot-2566-11-16-at-02.50.21.png)
 
 ***လၢႆးၸႂ်ႉယၵ်းၶိုၼ်ႈဢမ်ႇမိူၼ်ၵၼ်ၸိူဝ်းၼႆႉၵေႃႈမီးလွင်ႈတၢင်းၶွင်ၽႂ်မၼ်း ၵူၺ်းၵေႃႈမီးၶေႃႈထၢမ်ၸွမ်းမႃးထႅင်ႈႁင်းၽႂ်မၼ်း။***
 
@@ -116,7 +116,7 @@ Resource တၢင်းၼိူဝ်ၼၼ်ႉ ပၼ် Definition "ယၵ
 
 တူဝ်ယၢင်ႇလီဢၼ်တေႁၼ်ငၢႆႈလႄႈၸမ်တူဝ်းၸိူဝ်းႁဝ်းတီႈသုတ်း မိူၼ်ၼင်ႇၵၢၼ်ပိၼ်ႇၽႃႇသႃႇ
 
-![NLLB Demo {caption: တူဝ်ပိၼ်ႇၽႃႇသႃႇ AI model ၶွင် Facebook}](/assets/the-future-of-shan-language/Screenshot-2566-11-17-at-02.46.09.png)
+![NLLB Demo {caption: တူဝ်ပိၼ်ႇၽႃႇသႃႇ AI model ၶွင် Facebook}](blog/assets/the-future-of-shan-language/Screenshot-2566-11-17-at-02.46.09.png)
 
 ၶူင်းၵၢၼ် NLLB ႁွင်းႁပ်ႉပႃးလိၵ်ႈတႆး ဢၼ်ၼႆႉမၼ်းၸၢင်ႈပိၼ်ၽႃႇသႃႇတၢင်ႇမဵဝ်းမႃးပဵၼ်လိၵ်ႈတႆးလႄႈ ပိၼ်လိၵ်ႈတႆးၵႂႃႇပဵၼ်တၢင်ႇၽႃႇသႃႇ။
 
@@ -140,7 +140,7 @@ Resource တၢင်းၼိူဝ်ၼၼ်ႉ ပၼ် Definition "ယၵ
 
 ပေႃးဝၼ်းၼိုင်ႈမႃးႁဝ်းတႅမ်ႈၽိတ်းၽိတ်းၽူၼ်ၽူၼ် လၢႆးတႅမ်ႈ လၢႆးလေႃးတူဝ်လိၵ်ႈဢမ်ႇမိူၼ်ၵၼ် ၼႂ်းၾဵတ်ႉပုၵ်ႉသ် ဢမ်ႇၼၼ်ၼႂ်းဝဵပ်ႉသၢႆႉသ်သေတီႈတီႈ လႄႈပိူၼ်ႈဢဝ်ႈၵႂႃႇပဵၼ်ၶေႃႈမုၼ်းႁဵတ်းဢေႇဢၢႆႇမႃးပၼ်ၸႂ်ႉတိုဝ်းၼႆၵေႃႈ လိၵ်ႈလၢႆးႁဝ်းၸၢင်ႈလႅၵ်ႈလၢႆႈၵႂႃႇၸွမ်းၵေႃႉၼၼ်ႉၵူၺ်း (မိူၼ်ၼင်ႇပၼ်ႁႃ [Google Noto Fonts](https://fonts.google.com/noto/fonts?noto.lang=shn_Mymr&noto.continent=Asia&noto.script=Mymr))
 
-![NLLB {caption: တူဝ်ယၢင်ႇဢၼ်ၼိုင်ႈ ၸၢင်ႈလၢမ်းၶၢတ်ႈလႆႈဝႃႈ ၶေႃႈမုၼ်းၵမ်ႈၼမ်ဢၼ်ၸႂ်ႉတီႈၼႆႈပဵၼ်ဝဵပ်ႉသၢႆႉသ်ဢၼ်ၵႆႉၵႆႉတႅမ်ႈၵဵဝ်ႇၵပ်းလွင်ႈၵိုတ်းယိုဝ်းၸိူဝ်းၼႆႉယဝ်ႉ။}](/assets/the-future-of-shan-language/Screenshot-2566-11-17-at-02.53.16.png)
+![NLLB {caption: တူဝ်ယၢင်ႇဢၼ်ၼိုင်ႈ ၸၢင်ႈလၢမ်းၶၢတ်ႈလႆႈဝႃႈ ၶေႃႈမုၼ်းၵမ်ႈၼမ်ဢၼ်ၸႂ်ႉတီႈၼႆႈပဵၼ်ဝဵပ်ႉသၢႆႉသ်ဢၼ်ၵႆႉၵႆႉတႅမ်ႈၵဵဝ်ႇၵပ်းလွင်ႈၵိုတ်းယိုဝ်းၸိူဝ်းၼႆႉယဝ်ႉ။}](blog/assets/the-future-of-shan-language/Screenshot-2566-11-17-at-02.53.16.png)
 
 တႃႇတေၵႄႈလိတ်ႈပၼ်ႁႃ၊ ႁႄႉၵင်ႈပၼ်ႁႃ၊ လႄႈသုပ်ႇႁဵတ်းႁႂ်ႈလိၵ်ႈတႆးၶိုၼ်ႈသၢင်ႉၵႂႃႇၸွပ်းၵၢပ်ႈပၢၼ်ငၢႆႈငၢႆႈလူမ်လူမ်ၼႆႉ လီမီးတီႈပိုင်ႈဢိင် တႃႇဢၢင်ႈဢိင်လႄႈမၵ်းမၼ်ႈပၼ်လႆႈဝႃႈ တေလႆႈတႅမ်ႈၸိူင်ႉႁိုဝ် တေလႆႈလေႃးၸိူင်ႉႁိုဝ် သေယဝ်ႉလႄႈႁဝ်းတေယွမ်းႁပ်ႉဢဝ်ၵေႃႉၼႆႉ ၸုမ်းၼႆႉဝႃႈယဝ်ႉ ဢမ်ႇဝႃႈၼွၵ်ႈမိူင်းၼႂ်းမိူင်း ၸုမ်းၶွမ်ႇပၼီႇလႂ်လူဝ်ႇၶေႃႈမုၼ်းလိၵ်ႈတႆးၵေႃႈ လူဝ်ထၢမ်ၸုမ်းၼႆႉယဝ်ႉ ၼႆၼၼ်ႉတေလီတွၼ်ႈတႃႇဢၼႃႇၵၢတ်ႈလိၵ်ႈတႆးသေပိူၼ်ႈ။
 

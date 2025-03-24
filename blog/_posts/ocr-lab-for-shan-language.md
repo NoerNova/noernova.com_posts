@@ -30,9 +30,9 @@ Optical Character Recognition (OCR) လွင်ႈႁူႉႁၼ်တူဝ�
 
 ပွင်ႈၵၢမ်းႁူဝ်းၼႆႉ ပဵၼ်လွင်ႈတႅမ်ႈမၢႆၵၢၼ်လဵပ်ႈႁဵၼ်းၼႂ်းႁူဝ်ၶေႃႈ OCR လႄႈပဵၼ်ထႅၵ်ႉၼိၵ်ႉၶူဝ်ႇလ် (technical) တင်းၼမ်။
 
-![Book Example 1 {caption: ပပ်ႉလိၵ်ႈဢၼ်ပဵၼ်ၶႅပ်းႁၢင်ႈ PDF}](/assets/ocr-lab-for-shan-language/book_example1.png)
+![Book Example 1 {caption: ပပ်ႉလိၵ်ႈဢၼ်ပဵၼ်ၶႅပ်းႁၢင်ႈ PDF}](blog/assets/ocr-lab-for-shan-language/book_example1.png)
 
-![Book OCR Example {caption: တႅၵ်ႉၼိူင်းၵၼ်တင်းမိူဝ်ႈပႆႇႁဵတ်း OCR သေ copy လႄႈ မိူဝ်းႁဵတ်း OCR}](/assets/ocr-lab-for-shan-language/book_example2.png)
+![Book OCR Example {caption: တႅၵ်ႉၼိူင်းၵၼ်တင်းမိူဝ်ႈပႆႇႁဵတ်း OCR သေ copy လႄႈ မိူဝ်းႁဵတ်း OCR}](blog/assets/ocr-lab-for-shan-language/book_example2.png)
 
 ## Tesseract-OCR?
 
@@ -54,7 +54,7 @@ OCR ၼႆႉတေသွၼ်ႇဝႃႈ Input ဢၼ်တေႁပ်ႉမ
 2. လိၵ်ႈဢၼ်မီးၼိူဝ်ၶႅပ်းႁၢင်ႈၼၼ်ႉ - Image1.gt.txt ၸိုဝ်ႈၾၢႆႇလ်တေလႆႈမိူၼ်ၵၼ်တင်းၾၢႆႇလ်ၶႅပ်းႁၢင်ႈ လႄႈ prefix တေလႆႈပဵၼ် .gt.txt
 (Optional) 3. Box data, OCR မၢင်ၸိူဝ်းဢမ်ႇမီး Automatic box bounding လႄႈတေလႆႈၸၼ်ႁင်းၵူၺ်း၊ တွၼ်ႈၼႆႉႁဝ်းၸႂ်ႉ Tesseract-OCR V5 လႄႈ ဢမ်ႇလူဝ်ႇ။
 
-![Box example {caption: ၵၢၼ်ႁဵတ်းၶေႃႈမုၼ်း Box}](/assets/ocr-lab-for-shan-language/box_example.png)
+![Box example {caption: ၵၢၼ်ႁဵတ်းၶေႃႈမုၼ်း Box}](blog/assets/ocr-lab-for-shan-language/box_example.png)
 
 ၶေႃႈမုၼ်း OCR ဢၼ်ၵူႈၵၼ်ဝႆႉၸိူင်ႉၼႆတွၼ်ႈတႃႇလိၵ်ႈတႆးလႆႈဝႃႈဢမ်ႇပႆႇမီးသေပွၵ်ႈ ၼႆလႄႈတီႈၼႆႈၼႆႉႁဝ်းတေၸႂ်ႉ python script သေ generate ဢဝ်
 
@@ -63,7 +63,7 @@ OCR ၼႆႉတေသွၼ်ႇဝႃႈ Input ဢၼ်တေႁပ်ႉမ
 ၶေႃႈမုၼ်း text တီႈၼႆႈၼႆႉတေၸၼ်ဢဝ်တီႈၶေႃႈမုၼ်းဢၼ်လႆႈၸၼ်ဝႆႉသေတၢင်ႇဝႆႉၼႂ်း huggingface မိူၼ်ၼင်ႇ tainovel.com. shannews.org, taifreedom.com, shn.wikipedia.com ၸိူဝ်းၼႆႉ [huggingface.com/haohaa](huggingface.com/haohaa)
 ႁဝ်းၶႃႈ HaoHaa လႆႈၸၼ်ၶေႃႈမုၼ်းလိၵ်ႈတႆးၼိူဝ်ဝႅပ်ႉသၢႆႉသ်ဢၼ်တႅမ်ႈလိၵ်ႈတႆးၵူႈဝႅပ်ႉသၢႆႉသ်ဢၼ်ႁႃလႆႈသေ ၶိုၼ်းတၢင်ႇဝႆႉတီႈ Huggingface ဢၼ်ပဵၼ်တီႈၸူႉတုမ်ၸုမ်ႇၶေႃႈမုၼ်း (datasets) လႄႈမေႃႇတႄႇလ် AI ဢၼ်ၸႂ်ႉၵၼ်ၼမ်တင်းလုမ်ႈၾႃႉယၢမ်းမိူဝ်ႈလဵဝ် ပိူင်ၼိုင်ႈၵေႃႈ ၸုမ်ႇၶေႃႈမုၼ်ၸိူဝ်းၼႆႉတေၸၼ်ဢဝ်ၸႂ်ႉငၢႆႈလိူဝ်သေဝႅပ်ႉသၢႆႉသ်။
 
-![Load Dataset {caption: ၵၢၼ်ၸၼ်ၸႂ်ႉၶေႃႈမုၼ်းၼႂ်း huggingface}](/assets/ocr-lab-for-shan-language/load_datasets_1.png)
+![Load Dataset {caption: ၵၢၼ်ၸၼ်ၸႂ်ႉၶေႃႈမုၼ်းၼႂ်း huggingface}](blog/assets/ocr-lab-for-shan-language/load_datasets_1.png)
 
 ၼႂ်းၵၢၼ်ၸၼ်ၶေႃႈမုၼ်းတင်းၼိူဝ်ၼႆႉတေႁၼ်ဝႃႈ မၢင်တီႈမီးတူဝ်လိူဝ်၊ emoji လႄႈတူဝ်ဢၼ်ဢမ်ႇၸႂ်ႈလိၵ်ႈတႆးဝႆႉယူႇ ၸိူဝ်းၼၼ်ႉၼႆႁဝ်းတေလႆႈ clean သုၵ်ႈလၢင်ႉပႅတ်ႈတင်းသဵင်ႈ
 
@@ -392,13 +392,13 @@ display(image)
 print(extracted_text)
 ```
 
-![Example 1 {caption: ၶႅပ်ႈႁၢင်ႈ generated single line}](/assets/ocr-lab-for-shan-language/example_re_1.png)
-![Example 2 {caption: ၶႅပ်ႈႁၢင်ႈ screenshot single line}](/assets/ocr-lab-for-shan-language/example_re_2.png)
-![Example 3 {caption: ၶႅပ်ႈႁၢင်ႈ screenshot single line}](/assets/ocr-lab-for-shan-language/example_re_3.png)
+![Example 1 {caption: ၶႅပ်ႈႁၢင်ႈ generated single line}](blog/assets/ocr-lab-for-shan-language/example_re_1.png)
+![Example 2 {caption: ၶႅပ်ႈႁၢင်ႈ screenshot single line}](blog/assets/ocr-lab-for-shan-language/example_re_2.png)
+![Example 3 {caption: ၶႅပ်ႈႁၢင်ႈ screenshot single line}](blog/assets/ocr-lab-for-shan-language/example_re_3.png)
 
 ၽၢႆႇၼိူဝ်ၼႆႉၸၢမ်းတူၺ်းတင်းၶႅပ်းႁၢင်ႈဢၼ်ပဵၼ် Single Line text ထႅဝ်လဵဝ် ႁၼ်ဝႃႈယင်းမီး missing character ၵမ်ႈဢွင်ႈ
 
-![Example 4 {caption: ၶႅပ်ႈႁၢင်ႈ screenshot multi line}](/assets/ocr-lab-for-shan-language/example_re_4.png)
+![Example 4 {caption: ၶႅပ်ႈႁၢင်ႈ screenshot multi line}](blog/assets/ocr-lab-for-shan-language/example_re_4.png)
 
 ၽၢႆႇၼိူဝ်ၼႆႉၸၢမ်းတူၺ်းတင်းၶႅပ်းႁၢင်ႈဢၼ်ပဵၼ် Multi Line text လိၵ်ႈလၢႆထႅဝ် ႁၼ်ဝႃႈမီး missing character တင်းၼမ် ပိူင်ၼိုင်ႈၵေႃႈ
 ၸုမ်ႇၶေႃႈမုၼ်းဢၼ်ႁဝ်းၸႂ်ႉၾိုၵ်းသွၼ်ၼၼ်ႉပဵၼ်ဝႆႉ Single Line text တင်းမူတ်းလႄႈ တေလႆႈမီး ၸုမ်ႇၶေႃႈမုၼ်း Multi Line text မႃးပွၼ်ႈသွၼ်ပၼ်ထႅင်ႈ။
@@ -408,13 +408,13 @@ print(extracted_text)
 ယိူင်းမၢႆဢၼ်ၼႆႉၵေႃႈ ပိူဝ်ႈတႃႇတေၸၼ်ၶေႃႈမုၼ်းလိၵ်ႈၼႂ်း PDF လႆႈၼႆလႄႈ ၸၢမ်းတူၺ်းတင်း PDF file
 တီႈၼႆႉႁဝ်းတေၸႂ်ႉ [ocrmypdf](https://github.com/ocrmypdf/OCRmyPDF) adds on
 
-![Book Example 1 {caption: ပပ်ႉလိၵ်ႈဢၼ်ပဵၼ်ၶႅပ်းႁၢင်ႈ PDF}](/assets/ocr-lab-for-shan-language/book_example1.png)
+![Book Example 1 {caption: ပပ်ႉလိၵ်ႈဢၼ်ပဵၼ်ၶႅပ်းႁၢင်ႈ PDF}](blog/assets/ocr-lab-for-shan-language/book_example1.png)
 
-![Book OCR Example {caption: တႅၵ်ႉၼိူင်းၵၼ်တင်းမိူဝ်ႈပႆႇႁဵတ်း OCR သေ copy လႄႈ မိူဝ်းႁဵတ်း OCR}](/assets/ocr-lab-for-shan-language/book_example2.png)
+![Book OCR Example {caption: တႅၵ်ႉၼိူင်းၵၼ်တင်းမိူဝ်ႈပႆႇႁဵတ်း OCR သေ copy လႄႈ မိူဝ်းႁဵတ်း OCR}](blog/assets/ocr-lab-for-shan-language/book_example2.png)
 
-![Book Example 2 {caption: ပပ်ႉလိၵ်ႈဢၼ်ပဵၼ်ၶႅပ်းႁၢင်ႈ PDF}](/assets/ocr-lab-for-shan-language/book_example3.png)
+![Book Example 2 {caption: ပပ်ႉလိၵ်ႈဢၼ်ပဵၼ်ၶႅပ်းႁၢင်ႈ PDF}](blog/assets/ocr-lab-for-shan-language/book_example3.png)
 
-![Book OCR Example 2 {caption: တႅၵ်ႉၼိူင်းၵၼ်တင်းမိူဝ်ႈပႆႇႁဵတ်း OCR သေ copy လႄႈ မိူဝ်းႁဵတ်း OCR}](/assets/ocr-lab-for-shan-language/book_example4.png)
+![Book OCR Example 2 {caption: တႅၵ်ႉၼိူင်းၵၼ်တင်းမိူဝ်ႈပႆႇႁဵတ်း OCR သေ copy လႄႈ မိူဝ်းႁဵတ်း OCR}](blog/assets/ocr-lab-for-shan-language/book_example4.png)
 
 တေႁၼ်ဝႃႈဢွၵ်ႇလိၵ်ႈတႆးမႃးယူႇ ၵူၺ်းယင်းတိုၵ်မီး missing words တင်းၼမ် တီႈၼႆႈၵေႃႈတေလႆႈမီး ၸုမ်ႇၶေႃႈမုၼ်း Page level text မႃးပွၼ်ႈသွၼ်ပၼ်ထႅင်ႈ။
 

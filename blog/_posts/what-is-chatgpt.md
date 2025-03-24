@@ -18,23 +18,23 @@ ChatGPT ၼႆႉဢမ်ႇၸႂ်ႈ chatbot ယူဝ်းယူဝ်း
 
 ### _ၸၢမ်းထၢမ်တူၺ်းၸွင်ႇမၼ်းႁူႉလွင်ႈလိၵ်ႈႁူမ်ႈမၢႆပၢင်လူင်_
 
-![Screenshot 2566-01-19 at 00.41.51.png](/assets/what-is-chatgpt/Screenshot_2566-01-19_at_00.41.51_1674063743259_0.png)
+![Screenshot 2566-01-19 at 00.41.51.png](blog/assets/what-is-chatgpt/Screenshot_2566-01-19_at_00.41.51_1674063743259_0.png)
 
 ### _ႁႂ်ႈမၼ်းသွၼ်လွင်ႈ Programming_
 
-![Screenshot 2566-01-19 at 00.45.05.png](/assets/what-is-chatgpt/Screenshot_2566-01-19_at_00.45.05_1674064084016_0.png)
+![Screenshot 2566-01-19 at 00.45.05.png](blog/assets/what-is-chatgpt/Screenshot_2566-01-19_at_00.45.05_1674064084016_0.png)
 
-![Screenshot 2566-01-19 at 00.45.11.png](/assets/what-is-chatgpt/Screenshot_2566-01-19_at_00.45.11_1674064099180_0.png)
+![Screenshot 2566-01-19 at 00.45.11.png](blog/assets/what-is-chatgpt/Screenshot_2566-01-19_at_00.45.11_1674064099180_0.png)
 
 တေႁၼ်ဝႃႈဢမ်ႇၸႂ်ႈတွပ်ႇၶေႃႈလႂ်ၶေႃႈၼၼ်ႉၵူၺ်း မၼ်းတေဢဝ်ၶေႃႈထၢမ် ၶေႃႈတွပ်ႇဢွၼ်တၢင်းၼၼ်ႉမႃးတွပ်ႇပၼ်ၸွမ်း ဢမ်ႇလူဝ်ႇထၢမ်မႂ်ႇၵူႈၵမ်း မိူၼ်လၢတ်ႈတေႃႇၵူၼ်းလီလီၵေႃႉၼိုင်ႈယဝ်ႉ
 
 ### _ႁႂ်ႈမၼ်းတႅမ်ႈပၼ်လိၵ်ႈၵပ်းသိုပ်ႇတူဝ်_
 
-![Screenshot 2566-01-19 at 00.50.58.png](/assets/what-is-chatgpt/Screenshot_2566-01-19_at_00.50.58_1674064291458_0.png)
+![Screenshot 2566-01-19 at 00.50.58.png](blog/assets/what-is-chatgpt/Screenshot_2566-01-19_at_00.50.58_1674064291458_0.png)
 
 ### _ႁႂ်ႈမၼ်းၸွႆႈပိၼ်ႇၽႃႇသႃႇ_
 
-![Screenshot 2566-01-19 at 00.53.42.png](/assets/what-is-chatgpt/Screenshot_2566-01-19_at_00.53.42_1674064445644_0.png)
+![Screenshot 2566-01-19 at 00.53.42.png](blog/assets/what-is-chatgpt/Screenshot_2566-01-19_at_00.53.42_1674064445644_0.png)
 
 ယၢမ်းလဵဝ် ChatGPT ပိုတ်ပၼ်ၸႂ်ႉ Free ယူႇဢမ်ႇပႆႇမီးၵႃႈၸႂ်ႉၸၢႆႇသင် ၵူၺ်းမိူဝ်းၼႃႈ တေမႃး ChatGPT-4 ဢၼ်ၽႂ်းလိူဝ်ၼႆႉ ၶႅၼ်ႇလိူဝ်ၼႆႉထႅင်ႈ တႄႉဢမ်ႇႁူႉၸွင်ႇတေမီးၵႃႈၸႂ်ႉၸၢႆႇသင်
 

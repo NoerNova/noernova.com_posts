@@ -33,7 +33,7 @@ Facebook ၸႂ်ႉလႆႈလီၼႂ်းလၢႆလၢႆၽႃႇသ�
 - Speech to Speech (လၢတ်ႈသဵင်သေႁႂ်ႈပိၼ်ႇၽႃႇသႃႇပဵၼ်သဵင်)
 - Text Generation (မိူၼ်ၼင်ႇ ChatGPT)
 
-![nllb-translation-demo {caption: Image - saizomtai}](/assets/meta-NLLB-shan-machine-translations/nllb-translation-demo.jpeg)
+![nllb-translation-demo {caption: Image - saizomtai}](blog/assets/meta-NLLB-shan-machine-translations/nllb-translation-demo.jpeg)
 
 လႆႈဝႃႈပဵၼ်လွင်ႈလီႁူမ်ၸူမ်းတွၼ်ႈတႃႇၶိူဝ်းတႆးဢွၼ်ႇႁဝ်း ဢၼ်ဢမ်ႇပႆႇၸၢင်ႈ ၶူင်ႁဵတ်းဢွၵ်ႇမႃးႁင်းၵူၺ်း လႄႈမိူဝ်းၼႃႈမႃးၸၢင်ႈလႆႈၸႂ်ႉတိုဝ်းၶိူင်ႈၸၢၵ်ႈၸိူဝ်းၼႆႉ တွၼ်ႈတႃႇလဵပ်းႁဵၼ်း တွၼ်ႈတႃႇပၼ်တၢင်းႁူႉ တေႃႇထိုင်ပၢႆးမၢၵ်ႈမီးၸိူဝ်းၼႆႉယူႇ။
 

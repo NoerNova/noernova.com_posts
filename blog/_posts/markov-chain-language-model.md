@@ -46,7 +46,7 @@ description: "Computer လူ၊ ဢၢၼ်ႇ၊ ႁၼ် ထႅဝ်လိ
 
 ၼႂ်းၾူၼ်း လႄႈ Computer ႁဝ်းတေယၢမ်ႈႁၼ်
 
-![Panglong Keyboard {caption: လွၵ်းမိုဝ်းပၢင်လူင်}](/assets/markov-chain-language-model/Screenshot_2566-09-06_at_23.03.24.png)
+![Panglong Keyboard {caption: လွၵ်းမိုဝ်းပၢင်လူင်}](blog/assets/markov-chain-language-model/Screenshot_2566-09-06_at_23.03.24.png)
 
 ပေႃးႁဝ်းပေႃႉလိၵ်ႈဝႃႈ "ပၢင်" ၼႆၸိုင်မၼ်းတေၽုတ်းဢွၵ်ႇမႃးပၼ်ဝႃႈ "ပၢင် လူင်"။
 ၶိူင်ႈၸၢၵ်ႉ Computer လႄႈ ၾူၼ်းႁဵတ်းၸိူင်ႉႁိုဝ်ႁူႉၶႃႈလႃႇ?
@@ -73,11 +73,11 @@ Language Modeling ပဵၼ်ပိုၼ်ႉထၢၼ်တႃႇတေႁ�
 ၼင်ႇလၢတ်ႈမႃးပႃႈၼိူဝ်ၼၼ်ႉ ၶေႃႈၵႂၢမ်းတႃႇတေထႅမ်လွၵ်းပဝ်ႇၼၼ်ႉတေလႆႈဢိင်ၼိူဝ်ၶေႃႈမုၼ်းတၢင်းယၢမ်ႈဢၼ်ႁဝ်းမီးလႄႈ ၼႂ်းထႅဝ်လိၵ်ႈၼၼ်ႉၶေႃႈၵႂၢမ်းသင်မႃးဢွၼ်တၢင်း။
 ၼႂ်းၶွမ်ႇၽိဝ်ႇတိူဝ်ႈၵေႃႈမိူၼ်ၵၼ် တေလႆႈမီးၶေႃႈမုၼ်းပၼ်မၼ်းသေ ၼႂ်းထႅဝ်လိၵ်ႈၼၼ်ႉမၼ်းတေလႆႈလၢမ်းၶၢတ်ႈဝႃႈ ထုၵ်ႇလီထႅမ်လွၵ်းပဝ်ႇသင် မၼ်းတေလႆႈတူၺ်းၶေႃႈၵႂၢမ်းတၢင်းၼႃႈၵွၼ်ႇ လူၺ်ႈၵၢၼ်ၸႂ်ႉတၢင်းႁူႉလွင်ႈပၢႆးၼမ်ႉ Probabilistic math ပၢႆးၼပ်ႉၵၢၼ်လၢမ်းၶၢတ်ႈ
 
-![Chain rule {caption: Chain rule}](/assets/markov-chain-language-model/Screenshot_2566-09-06_at_23.43.52.png)
+![Chain rule {caption: Chain rule}](blog/assets/markov-chain-language-model/Screenshot_2566-09-06_at_23.43.52.png)
 
 "ၽႃႇသႃႇၵႂၢမ်းလၢတ်ႈ"
 
-![Chain rule {caption: Chain rule}](/assets/markov-chain-language-model/Screenshot_2566-09-07_at_00.17.00.png)
+![Chain rule {caption: Chain rule}](blog/assets/markov-chain-language-model/Screenshot_2566-09-07_at_00.17.00.png)
 
 ၶေႃႈၵႂၢမ်းဢၼ်တေမႃးၵပ်းၼၼ်ႉ တေသိုပ်ႇမႃးတီႈတူဝ်တၢင်းၼႃႈတင်းသဵင်ႈ။
 
@@ -87,11 +87,11 @@ Language Modeling ပဵၼ်ပိုၼ်ႉထၢၼ်တႃႇတေႁ�
 
 Markov assumption approach ယိုၼ်ႈၼႄဝႃႈ ႁႂ်ႈတူၺ်း n-gram ဢမ်ႇၼၼ် n ၶေႃႈတၢင်းလင်ၵူၺ်း။
 
-![n-1 {caption:  n-1 တေတူၺ်းတူဝ်တၢင်းလင် 1 တူဝ်ၵူၺ်းသေလၢမ်းၶၢတ်ႈထႅင်ႈတူဝ်တၢင်းၼႃႈ}](/assets/markov-chain-language-model/Screenshot_2566-09-07_at_00.22.54.png)
+![n-1 {caption:  n-1 တေတူၺ်းတူဝ်တၢင်းလင် 1 တူဝ်ၵူၺ်းသေလၢမ်းၶၢတ်ႈထႅင်ႈတူဝ်တၢင်းၼႃႈ}](blog/assets/markov-chain-language-model/Screenshot_2566-09-07_at_00.22.54.png)
 
 လိူဝ်သေၼၼ်ႉတေမီးထႅင်ႈ unigram (n-1), bigram (n-2), trigram (n-3) လႄႈ n-gram ဢိင်ၼိူဝ်ၶေႃႈမုၼ်း လႄႈထႅဝ်လိၵ်ႈဢၼ်ႁဝ်းပၼ်ၼၼ်ႉ ဢၼ်လႂ်လၢမ်းၶၢတ်ႈလႆႈလီသုတ်းၵေႃႈတေၸႂ်ႉဢၼ်ၼၼ်ႉ။
 
-![markov-chain {caption: n-gram markov assumption}](/assets/markov-chain-language-model/Screenshot_2566-09-07_at_00.31.53.png)
+![markov-chain {caption: n-gram markov assumption}](blog/assets/markov-chain-language-model/Screenshot_2566-09-07_at_00.31.53.png)
 
 ပေႃးၶွမ်ႇၽိဝ်ႇတိူဝ်ႇၸၢင်ႈလၢမ်းၶၢတ်ႈလႆႈၸိူင်ႉၼႆၸိုင်ၸၢင်ႈဢဝ်ၵႂႃႇၸႂ်ႉလႆႈလၢႆတီႈလၢႆတၢင်းမိူၼ်ၼင်ႇ
 
@@ -105,7 +105,7 @@ Markov assumption approach ယိုၼ်ႈၼႄဝႃႈ ႁႂ်ႈတူ�
 
 ဢိင်ၶေႃႈမုၼ်းၶၢဝ်ႇ Shannews "ၸုမ်းၶၢဝ်ႇၽူႈတွႆႇႁွၵ်ႈ" 4000+ ႁူဝ် ပွင်ႈၵႂၢမ်းၶၢဝ်ႇ သေ ၸၢမ်းႁႂ်ႈၶွမ်ႇၽိဝ်ႇတိူဝ်ႇလၢမ်းၶၢတ်ႈၶေႃႈၵႂၢမ်း ဢိင်ၼိူဝ်ၶေႃႈၵႂၢမ်းဢၼ်ႁဝ်းပေႃႉသႂ်ႇ
 
-![markov_bigram {caption: markov bigram n-2}](/assets/markov-chain-language-model/Screenshot_2566-09-07_at_00.36.56.png)
+![markov_bigram {caption: markov bigram n-2}](blog/assets/markov-chain-language-model/Screenshot_2566-09-07_at_00.36.56.png)
 
 ဝၢႆးသေသွၼ်ပၼ်ၶေႃႈမုၼ်းမၼ်းယဝ်ႉသေၸၢမ်းပေႃႉတူၺ်းဝႃႈ "ၶိူင်ႈ မိၼ်" ၼႆမၼ်းလၢမ်းၶၢတ်ႈၶေႃႈၵႂၢမ်းဢၼ်ၸၢင်ႈၵပ်းလႆႈဝႃႈ
 
@@ -114,7 +114,7 @@ Markov assumption approach ယိုၼ်ႈၼႄဝႃႈ ႁႂ်ႈတူ�
 - "ယိုဝ်း ႁၢဝ်ႈ"
 - "သိုၵ်း မၢၼ်ႈ"
 
-![markov_bigram {caption: markov bigram n-2}](/assets/markov-chain-language-model/Screenshot_2566-09-07_at_00.47.12.png)
+![markov_bigram {caption: markov bigram n-2}](blog/assets/markov-chain-language-model/Screenshot_2566-09-07_at_00.47.12.png)
 
 ၸၢမ်းပေႃႉတူၺ်းဝႃႈ "ၸုမ်း ၶၢဝ်ႇ" ၼႆမၼ်းလၢမ်းၶၢတ်ႈမႃးပၼ်ထႅဝ်လိၵ်ႈၸူဝ်းၼႆႉ။
 ၵွပ်ႈပိူဝ်ႈဝႃႈၶေႃႈမုၼ်းဢၼ်ၸႂ်ႉသွၼ်ၼၼ်ႉလုၵ်ႉတီႈ "ၸုမ်းၶၢဝ်ႇၽူႈတွႆႇႁွၵ်ႈ" မႃးၼႆလႄႈ ၶေႃႈၵႂၢမ်းဢၼ်မၼ်းတေလၢမ်းၶၢတ်ႈမႃးပၼ်ၵေႃႈတေၺိၼ်ႁၼ်ပဵၼ်ၶေႃႈၵႂၢမ်းဢၼ်ၵဵဝ်ႇၶွင်ႈၸွမ်း ၶၢဝ်ႇ ၵၢၼ်မိူင်း ၵၢၼ်သိုၵ်း လႄႈၸုမ်းၶၢဝ်ႇၼမ်သေပိူၼ်ႈၼၼ်ႉယဝ်ႉ
