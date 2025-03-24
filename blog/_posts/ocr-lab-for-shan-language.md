@@ -3,7 +3,7 @@ tags: ["shan" ,"language" ,"ocr" ,"shannlp"]
 date: March 4, 2025
 title: OCR လွင်ႈႁူႉႁၼ်တူဝ်လိၵ်ႈ လူၺ်ႈသၢႆလႅင်း (Labs)
 subtitle: လွင်ႈတႅမ်ႈမၢႆၵၢၼ်လဵပ်ႈႁဵၼ်းၼႂ်းႁူဝ်ၶေႃႈ OCR လႄႈၽႃႇသႃႇတႆး
-image: https://i.pinimg.com/736x/fe/90/9d/fe909d46154586ff48efe5af61310e45.jpg
+image: https://raw.githubusercontent.com/NoerNova/noernova.com_posts/main/blog/assets/ocr-lab-for-shan-language/cover.webp
 link: blog/ocr-lab-for-shan-language
 description: Optical Character Recognition (OCR) လွင်ႈႁူႉႁၼ်တူဝ်လိၵ်ႈ လူၺ်ႈသၢႆလႅင်း။ ပဵၼ်ထႅၵ်ႉၶၼေႃႇလေႃႇၸီႇ ဢၼ်လမ်ႇလွင်ႈတႃႇ digitizing ၽႃႇသႃႇဢၼ်ၼိုင်ႈၼႂ်းပၢႆးၶွမ်ႇပိဝ်ႇတႃႇ၊ ၵူၺ်းၵႃႈ ယင်းမီးၽႃႇသႃႇထႅင်ႈတင်းၼမ်ဢၼ်ပႆႇမီး OCR ဢၼ်ၸႂ်ႉတိုဝ်းလႆႈလီလီ၊ မိူၼ်ၼင်ႇၽႃႇသႃႇတႆးႁဝ်းယဝ်ႉ။
 ---
