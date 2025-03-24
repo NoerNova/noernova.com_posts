@@ -3,7 +3,7 @@ tags: ["computer", "shan-language", "shan", "deep-learning", "machine-translatio
 date: "September 8, 2023"
 title: "ၶိူင်ႈပိၼ်ႇၽႃႇသႃႇတႆး ၶွင် Facebook ပဵၼ်သင် ၶဝ်ႁဵတ်းႁိုဝ်ႁဵတ်း tech recap"
 subtitle: "ၶိူင်ႈပိၼ်ႇၽႃႇသႃႇတႆး ၶွင် Facebook လႄႈၶူင်းၵၢၼ် NLLB ႁူဝ်ယွႆႈလွင်ႈ tech"
-image: "https://raw.githubusercontent.com/NoerNova/noernova.com_blog/main/assets/fairseq-NLLB-machine-translations-analize/nllb-translation-demo.jpeg"
+image: "https://raw.githubusercontent.com/NoerNova/noernova.com_posts/main/blog/assets/fairseq-NLLB-machine-translations-analize/nllb-translation-demo.jpeg"
 link: "blog/fairseq-NLLB-machine-translations-analize"
 description: "ၶိူင်ႈပိၼ်ႇၽႃႇသႃႇတႆး ၶွင် Facebook လႄႈၶူင်းၵၢၼ် NLLB ႁူဝ်ယွႆႈလွင်ႈ tech"
 ---

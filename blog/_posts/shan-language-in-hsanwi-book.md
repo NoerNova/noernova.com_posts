@@ -3,7 +3,7 @@ tags: ["shan", "shan-language", "tai-language", "shan-learning", "tai"]
 date: "September 13, 2023"
 title: "လိၵ်ႈတႆး ၼႂ်းပိုၼ်ႉမိူင်းသႅၼ်ဝီ (ႁေႃၶမ်းမိူင်းယႆ)"
 subtitle: "พื้นเมืองแสนหวี ฉบับหอคำเมืองไหญ (เรณู วิชาศิลป์)"
-image: "https://raw.githubusercontent.com/NoerNova/noernova.com_blog/main/assets/shan-language-in-hsanwi-book/Image.jpeg"
+image: "https://raw.githubusercontent.com/NoerNova/noernova.com_posts/main/blog/assets/shan-language-in-hsanwi-book/Image.jpeg"
 link: "blog/shan-language-in-hsanwi-book"
 description: "လဵပ်ႈႁဵၼ်းလႄႈပိၼ်ႇၽႃႇသႃႇလိၵ်ႈတႆး ၼႂ်းပပ်ႉလိၵ်ႈပိုၼ်ႉမိူင်းသႅၼ်ဝီ (ႁေႃၶမ်းမိူင်းယႆ)"
 ---

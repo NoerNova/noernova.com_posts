@@ -3,7 +3,7 @@ tags: ["computer", "markov-chain", "shan", "shan-language-model", "nlp"]
 date: "September 6, 2023"
 title: "AI/Computer ႁဵတ်းၸိူင်ႉႁိုဝ်သေၸင်ႇပွင်ႇၵႂၢမ်းၵူၼ်းလႆႈ"
 subtitle: "Computer လူ၊ ဢၢၼ်ႇ၊ ႁၼ် ထႅဝ်လိၵ်ႉပဵၼ်ၸိူင်ႉႁိုဝ် ႁဵတ်းႁိုဝ်သေပွင်ႇၵႂၢမ်း၊ ပွင်ႇထႅဝ်လိၵ်ႈၵူၼ်းလႆႈ"
-image: "https://raw.githubusercontent.com/NoerNova/noernova.com_blog/main/assets/markov-chain-language-model/Screenshot_2566-09-06_at_23.03.24.png"
+image: "https://raw.githubusercontent.com/NoerNova/noernova.com_posts/main/blog/assets/markov-chain-language-model/Screenshot_2566-09-06_at_23.03.24.png"
 link: "blog/markov-chain-language-model"
 description: "Computer လူ၊ ဢၢၼ်ႇ၊ ႁၼ် ထႅဝ်လိၵ်ႉပဵၼ်ၸိူင်ႉႁိုဝ် ႁဵတ်းႁိုဝ်သေပွင်ႇၵႂၢမ်း၊ ပွင်ႇထႅဝ်လိၵ်ႈၵူၼ်းလႆႈ"
 ---

@@ -6,7 +6,7 @@ tags:
 date: January 4, 2025
 title: Trend AI ပီ 2024 လႄႈၵၢၼ်ယုၵ်ႉမုၼ်းၽႃႇသႃႇတႆး
 subtitle: 2024 Wrap up on AI trend and Shan language
-image: https://raw.githubusercontent.com/NoerNova/noernova.com_blog/refs/heads/main/assets/2024-Wrap-up-on-AI-trend-and-Shan-language/lobe_chat_shan_llm.png
+image: https://raw.githubusercontent.com/NoerNova/noernova.com_posts/main/blog/assets/2024-Wrap-up-on-AI-trend-and-Shan-language/lobe_chat_shan_llm.png
 link: blog/2024-Wrap-up-on-AI-trend-and-Shan-language
 description: "ၵၢၼ်ယုၵ်ႉမုၼ်း AI ၼႂ်းပီ 2024 မီး trend ၸိူင်ႉႁိုဝ်? တႃႇၽႃႇသႃႇတႆး မီးၸိူင်ႉႁိုဝ်?"
 ---
