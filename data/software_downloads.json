@@ -1,0 +1,115 @@
+{
+  "Shan Dictionary": {
+    "0": {
+      "image": "https://i.pinimg.com/736x/25/2d/5e/252d5e6bef6e64e2f01bc406174413f4.jpg",
+      "name": "Desktop App",
+      "link": {
+        "Windows": "https://github.com/haohaaorg/shan-dictionary-offline/releases/download/v1.1.0/Shan-Dictionary-Setup-1.1.0.exe",
+        "Debian Linux": "https://github.com/haohaaorg/shan-dictionary-offline/releases/download/v1.1.0/shan-dictionary_1.1.0_amd64.deb",
+        "Apple macOS": "https://github.com/haohaaorg/shan-dictionary-offline/releases/download/v1.1.0/Shan-Dictionary-1.1.0.dmg"
+      }
+    },
+    "1": {
+      "image": "https://play-lh.googleusercontent.com/AdZ9vzwQnqbbetLCvlpeZ5c9Hvpq2g1qlKvUchi71xGd-clfdnLiZWIXwTRupnUpegkw=w2560-h1440-rw",
+      "name": "Mobile App",
+      "link": {
+        "Android": "https://play.google.com/store/apps/details?id=com.shandictionary.sdictapp",
+        "Apple iOS": "https://apps.apple.com/us/app/shan-dictionary/id1645756819"
+      }
+    },
+    "2": {
+      "image": "https://i.pinimg.com/736x/8f/05/7e/8f057e097953b5d9c5f232115fa616f3.jpg",
+      "name": "Chat Bots",
+      "link": {
+        "Messenger": "https://www.facebook.com/shandictionary"
+      }
+    },
+    "3": {
+      "image": "https://i.pinimg.com/564x/2d/98/b7/2d98b714111bca463644ea48344a4c2e.jpg",
+      "name": "Browser Extensions",
+      "link": {
+        "Chrome": "https://chrome.google.com/webstore/detail/shan-dictionary/fknapdeokkmbkanlhmjcoachkoigfenj",
+        "Firefox": "https://addons.mozilla.org/en-US/firefox/addon/shan-dictionary/",
+        "Safari": "https://apps.apple.com/th/app/shan-dictionary/id1645518618"
+      }
+    }
+  },
+  "Keyboard Layout": {
+    "0": {
+      "image": "panglong_keyboard.webp",
+      "name": "Panglong",
+      "link": {
+        "Windows": "https://github.com/NoerNova/Panglong_Shan_Keyboard_Windows/releases/download/1.2/pl_shan_keyboard.exe",
+        "Apple macOS": "https://github.com/NoerNova/Panglong_Shan_Keyboard_macOS/releases/download/2022.04/Shan_iPanglong.2022.dmg",
+        "Apple macOS custom caps lock": "https://github.com/NoerNova/Panglong_Shan_Keyboard_macOS/releases/download/2022.04/Shan_iPanglong_CustomCapsLock.2022.dmg",
+        "Debian": "https://github.com/NoerNova/Shan-keyboard-X11-linux/releases/download/1.1/panglong-keyboard_1.1_all.deb",
+        "Debian (Build from source)": "https://github.com/NoerNova/Shan-keyboard-X11-linux",
+        "Android openboard (Patched)": "https://github.com/NoerNova/Panglong_Keyboards/releases/download/v0.0.1-alpha-1/panglong_keyboard.apk",
+        "Apple iOS (Build from source)": "https://github.com/NoerNova/PanglongKeyboard-iOS"
+      }
+    },
+    "1": {
+      "image": "SIL_keyboard.webp",
+      "name": "Shan (SIL)",
+      "link": {
+        "Keyman": "https://keyman.com/keyboards/install/sil_shan?bcp47=shn-mymr"
+      }
+    },
+    "2": {
+      "image": "namkhone_keyboard.webp",
+      "name": "NamKhone",
+      "link": {
+        "Windows": "https://taiload.com/wp-content/uploads/2020/07/NamKhone_Keyboard.zip"
+      }
+    },
+    "3": {
+      "image": "yonghkio_keyboard.webp",
+      "name": "Yunghkio",
+      "link": {
+        "Windows": "https://taiload.com/wp-content/uploads/2020/07/Yunghkio_Keyboard.zip"
+      }
+    }
+  },
+  "Shan Fonts": {
+    "0": {
+      "image": "Panglong.webp",
+      "name": "Panglong",
+      "link": "https://github.com/NoerNova/shan-fonts-collection/raw/main/unicode/PangLong.ttf"
+    },
+    "1": {
+      "image": "Shan.webp",
+      "name": "Shan",
+      "link": "https://github.com/NoerNova/shan-fonts-collection/raw/main/unicode/Shan.ttf"
+    },
+    "2": {
+      "image": "Namkhone_Grand.webp",
+      "name": "Namkhone Grand",
+      "link": "https://github.com/NoerNova/shan-fonts-collection/raw/main/unicode/NamKhone_2016.ttf"
+    },
+    "3": {
+      "image": "GreatHorKham_Taunggyi.webp",
+      "name": "GHK Taunggyi",
+      "link": "https://github.com/NoerNova/shan-fonts-collection/raw/main/unicode/GreatHorKham_Taunggyi.ttf"
+    },
+    "4": {
+      "image": "A_J_Kunheing.webp",
+      "name": "A J Kunheing",
+      "link": "https://www.ajfont.com/2023/07/aj-kunheing-update-2972023.html"
+    },
+    "5": {
+      "image": "NamTeng_2020.webp",
+      "name": "NamTeng 2020",
+      "link": "https://github.com/NoerNova/shan-fonts-collection/raw/main/unicode/NamTeng.ttf"
+    },
+    "6": {
+      "image": "Yunghkio.webp",
+      "name": "Yunghkio",
+      "link": "https://github.com/NoerNova/shan-fonts-collection/raw/main/unicode/Yunghkio.ttf"
+    },
+    "7": {
+      "image": "Noto_Sans_Myanmar.webp",
+      "name": "Google Noto fonts",
+      "link": "https://github.com/NoerNova/shan-fonts-collection/raw/main/unicode/google-noto-fonts.zip"
+    }
+  }
+}

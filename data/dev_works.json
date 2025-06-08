@@ -1,0 +1,146 @@
+{
+  "dev_1": {
+    "tags": ["Game", "Processing"],
+    "date": "Mar 14, 2018",
+    "title": "Snake game writing in Processing language",
+    "description": "Custom Shan language xkb, X11 keyboard for Debian/Linux (Unicode)",
+    "image": "https://user-images.githubusercontent.com/9565672/142682008-54d32231-28ea-4496-a6d9-9fab0130d35e.png",
+    "link": "https://github.com/NoerNova/snake-game-with-Processing"
+  },
+  "dev_2": {
+    "tags": ["Processing"],
+    "date": "April 14, 2018",
+    "title": "instrument in Processing language",
+    "description": "Processing project, instrument with G4P and Soundcipher",
+    "image": "https://raw.githubusercontent.com/NoerNova/instrument-Processing/main/start.jpg",
+    "link": "https://github.com/NoerNova/instrument-Processing"
+  },
+  "dev_3": {
+    "tags": ["Linux", "Panglong_Keyboards", "Shan"],
+    "date": "Apr 14, 2021",
+    "title": "Panglong Keyboard for Linux",
+    "description": "Custom Shan language xkb, X11 keyboard for Debian/Linux (Unicode)",
+    "image": "https://github.com/NoerNova/Shan-keyboard-X11-linux/blob/master/Keyboard_Layout_Shan.png?raw=true",
+    "link": "https://github.com/NoerNova/Shan-keyboard-X11-linux"
+  },
+  "dev_4": {
+    "tags": ["Windows", "Panglong_Keyboards", "Shan"],
+    "date": "Apr 15, 2021",
+    "title": "Panglong Keyboard for Windows",
+    "description": "Panglong Shan language Keyboard layout for Windows (Unicode)",
+    "image": "https://github.com/NoerNova/Panglong_Shan_Keyboard_win/blob/main/Keyboard_Layout_Shan.png?raw=true",
+    "link": "https://github.com/NoerNova/Panglong_Shan_Keyboard_win"
+  },
+  "dev_5": {
+    "tags": ["macOS", "Panglong_Keyboards", "Shan"],
+    "date": "Apr 16, 2021",
+    "title": "Panglong Keyboard for macOS",
+    "description": "Panglong Shan language Keyboard layout for macOS (Unicode)",
+    "image": "https://user-images.githubusercontent.com/9565672/142680930-bbcdc153-40a0-49cb-9901-7b217c0af06c.png",
+    "link": "https://github.com/NoerNova/Panglong_Shan_Keyboard_macOS"
+  },
+  "dev_6": {
+    "tags": ["iOS", "Panglong_Keyboards", "Shan"],
+    "date": "Sep 15, 2021",
+    "title": "Panglong Keyboard for iOS",
+    "description": "Panglong Shan language keyboard layout for iOS (Unicode)",
+    "image": "https://github.com/NoerNova/PanglongKeyboard-iOS/blob/main/Screenshot3.png?raw=true",
+    "link": "https://github.com/NoerNova/PanglongKeyboard-iOS"
+  },
+  "dev_7": {
+    "tags": ["Shan-State", "Maps", "Topo-json"],
+    "date": "Nov 14, 2021",
+    "title": "Shanstate geo maps",
+    "description": "Geology, Topology data maps for Shan state, region, townships",
+    "image": "https://user-images.githubusercontent.com/9565672/141111012-62cc6436-49fb-46a9-89c5-e34e871c56c9.png",
+    "link": "https://github.com/NoerNova/shanstate_geo_maps"
+  },
+  "dev_8": {
+    "tags": ["Shell", "Linux", "MacOS", "Terminal"],
+    "date": "Nov 15, 2021",
+    "title": "machine.env",
+    "description": "Setup and some environment for all of my machine",
+    "image": "https://user-images.githubusercontent.com/9565672/141785057-eb31b095-df89-433b-b155-a776a1069ac9.png",
+    "link": "https://github.com/NoerNova/machine.env"
+  },
+  "dev_9": {
+    "tags": ["Golang", "API", "Tai Dictionary"],
+    "date": "December 1, 2021",
+    "title": "Tai-English Dictionary API",
+    "description": "API for Tai to English and English to Tai in easy words.",
+    "image": "https://user-images.githubusercontent.com/9565672/144454312-597e62cb-f2df-4a42-99a1-90fdaf7b2436.png",
+    "link": "https://github.com/NoerNova/tai-eng-dictionaryAPI"
+  },
+  "dev_10": {
+    "tags": ["Nextjs", "Reactjs", "Tai Dictionary"],
+    "date": "December 2, 2021",
+    "title": "Tai-English Dictionary",
+    "description": "Tai to English and English to Tai dictionary",
+    "image": "https://user-images.githubusercontent.com/9565672/144454339-b06e4d2c-fc08-4dd6-aef7-889c30483140.png",
+    "link": "https://github.com/NoerNova/tai-eng-dictionary"
+  },
+  "dev_11": {
+    "tags": ["Chrome", "google-chrome-extension", "Tai Dictionary"],
+    "date": "December 10, 2021",
+    "title": "Tai-English Dictionary Chrome Extension",
+    "description": "Google chrome extension for English to Tai dictionary",
+    "image": "https://user-images.githubusercontent.com/9565672/145448090-396645d5-4552-4039-81a2-da7c7f46de6d.png",
+    "link": "https://github.com/NoerNova/tai-eng-dictionary-chromX"
+  },
+  "dev_12": {
+    "tags": ["Android", "Panglong_Keyboards", "Shan"],
+    "date": "April 1, 2022",
+    "title": "Panglong Keyboard AOSP Patched for Android",
+    "description": "Panglong Shan language Keyboard AOSP Patched layout for Android (Unicode)",
+    "image": "https://user-images.githubusercontent.com/9565672/161382435-2c672c61-9ee8-4ba0-b546-0083e6cb4d4d.jpeg",
+    "link": "https://github.com/NoerNova/openboard-AOSP_shan-layout-patched"
+  },
+  "dev_13": {
+    "tags": ["Android", "Panglong_Keyboards", "Shan"],
+    "date": "April 1, 2022",
+    "title": "Openboard AOSP Shan layout Patched for Android",
+    "description": "Openboard AOSP Shan's language Patched layout for Android (Unicode)",
+    "image": "https://user-images.githubusercontent.com/9565672/161382435-2c672c61-9ee8-4ba0-b546-0083e6cb4d4d.jpeg",
+    "link": "https://github.com/NoerNova/openboard"
+  },
+  "dev_14": {
+    "tags": ["Android", "Panglong_Keyboards", "Shan"],
+    "date": "April 1, 2022",
+    "title": "AOSP-Dictionary-tools",
+    "description": "AOSP Dictionary tools modified for Shan language",
+    "image": "https://user-images.githubusercontent.com/9565672/161381353-bcb44899-e207-45ac-86c1-455fe7bd3e51.jpeg",
+    "link": "https://github.com/NoerNova/aosp-dictionary-tools"
+  },
+  "dev_15": {
+    "tags": ["open-source", "Panglong_Keyboards", "Shan"],
+    "date": "April 2, 2022",
+    "title": "Panglong Keyboard Open-Source Project",
+    "description": "Panglong Keyboard open source for all platform.",
+    "image": "https://user-images.githubusercontent.com/9565672/161382526-1a8f2edd-a51c-43d9-bc77-8ff3334f15ab.png",
+    "link": "https://github.com/NoerNova/Panglong_Keyboards"
+  },
+  "dev_16": {
+    "tags": ["Shan", "Shan-Dictionary", "iOS", "Shan-Language"],
+    "date": "Oct 10, 2022",
+    "title": "Shan-Dictionary-iOS",
+    "description": "Shan Dictionary iOS app by Haohaa",
+    "image": "https://is2-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/bd/76/39/bd76399a-b140-a382-99b8-f15f1e8fd47d/5764c03e-feae-4b6c-8cf0-5a447a4686dc_iphone_home.png/230x0w.webp",
+    "link": "https://apps.apple.com/lv/app/shan-dictionary/id1645756819"
+  },
+  "dev_17": {
+    "tags": ["open-source", "Shan", "Shan-Fonts", "Wordpress", "Plugins"],
+    "date": "Oct 17, 2022",
+    "title": "WP Shan Fonts",
+    "description": "A wordpress plugins for easily used of shan-fonts.",
+    "image": "https://user-images.githubusercontent.com/9565672/196117876-5b9d30af-55e6-46b5-9d95-ba62eb7e4a09.png",
+    "link": "https://github.com/NoerNova/wp-shan-fonts"
+  },
+  "dev_18": {
+    "tags": ["open-source", "Shan", "Shan-language", "NLP", "ShanNLP"],
+    "date": "June 1, 2024",
+    "title": "ShanNLP",
+    "description": "A basic Natural Language Processing library for Shan language.",
+    "image": "https://opengraph.githubassets.com/63a010745187d7f7a6c1e0cbf8cbf30ed94b6c56150bc8609f140d196a92b462/NoerNova/ShanNLP",
+    "link": "https://github.com/NoerNova/ShanNLP"
+  }
+}
