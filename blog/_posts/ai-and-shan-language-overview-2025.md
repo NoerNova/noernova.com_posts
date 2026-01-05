@@ -1,9 +1,9 @@
 ---
 tags: ["computer", "shan", "shan-language"]
-date: January 6, 2025
+date: January 6, 2026
 title: လိၵ်ႈႁူမ်ႈတူဝ် ၵႂၢမ်းႁူမ်ႈၶေႃႈ AI လႄႈလိၵ်ႈလၢႆးၵႂၢမ်းလၢတ်ႈတႆး - Overview 2025
 subtitle: Shan Language Overview in 2025
-image: https://github.com/NoerNova/noernova.com_posts/blob/03bc747bcd165837cefeb596ac157f711c67567d/blog/assets/ai-and-shan-language-overview-2025/shan_google_language_explore.png
+image: https://raw.githubusercontent.com/NoerNova/noernova.com_posts/03bc747bcd165837cefeb596ac157f711c67567d/blog/assets/ai-and-shan-language-overview-2025/shan_google_language_explore.png
 link: "blog/ai-and-shan-language-overview-2025"
 description:
 ---
